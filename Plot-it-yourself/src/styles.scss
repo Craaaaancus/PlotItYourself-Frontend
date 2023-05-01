@@ -1,0 +1,160 @@
+$rowLength: 15;
+$letterSize: 28px;
+$textContainerWidth: calc($letterSize * $rowLength);
+$redcolor: #b83636;
+
+*, *::before, *::after {
+  font-family: 'Open Sans', sans-serif;
+  box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5 {
+  margin: 0;
+}
+
+.btn:disabled, .btn[disabled] {
+  background-color: #cccccc;
+  color: #666666;
+  cursor: not-allowed;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+}
+
+.tooltip .tooltip-text {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+  position: absolute;
+  z-index: 1;
+  width: 120px;
+  top: 100%;
+  left: 50%;
+  margin-left: -60px;
+}
+
+.btn {
+  font-size: inherit;
+  background-color: hsl(30, 100%, 50%);
+  padding: 0.5em 1em;
+  margin: 0 0.5rem;
+  outline: none;
+  border: none;
+  text-decoration: none;
+  cursor: pointer;
+  border-radius: 0.2em;
+  color: #f3f3f3;
+}
+
+.btn:hover ~ .tooltip-text {
+  visibility: visible;
+}
+
+.player-container, .opponent-container {
+  width: $textContainerWidth;
+  margin: 10px;
+}
+
+.player-header {
+  text-align: center;
+  padding: 10px 0;
+}
+
+.player-text, .opponent-text {
+  width: 100%;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 
+    repeat($rowLength, $letterSize);
+  user-select: none;
+  background: #c6c3c3;
+  transition: .1s linear;
+  position: relative;
+  transition: box-shadow .3s;
+}
+
+.text-letter {
+  display: inline-block;
+  font-size: 1.5rem;
+  width: $letterSize;
+  height: $letterSize;
+  text-align: center;
+  border: 1px solid grey;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #edebeb;
+  transition: color .3s;
+}
+
+.game-info {
+  padding-top: 10px;
+  text-align: justify;
+}
+
+.text-letter.red {
+  border: 1px solid red;
+  background-color: #e85050;
+}
+
+.red {
+  color: red;
+}
+
+.text-letter.blue {
+  border-color: blue;
+  background-color: #50a6e8;
+}
+
+.player-text.red {
+  box-shadow: 0 0 20px hsl(0, 91%, 47%);
+}
+
+.blue {
+  color: blue;
+}
+
+.text-letter.green {
+  border-color:green;
+  background-color: #4dd945;
+}
+
+.green {
+  color: green;
+}
+
+.text-letter.orange {
+  border-color: orange;
+  background-color: #eab35a;
+}
+
+.player-text.orange {
+  box-shadow: 0 0 20px hsl(30, 100%, 50%);
+}
+
+.orange {
+  color: hsl(30, 100%, 50%);
+}
+
+#letter {
+  transition: .1s linear;
+}
