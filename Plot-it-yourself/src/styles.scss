@@ -2,6 +2,8 @@ $rowLength: 15;
 $letterSize: 28px;
 $textContainerWidth: calc($letterSize * $rowLength);
 $redcolor: #b83636;
+$textOrange: hsl(30, 100%, 50%);
+$lightOrange: #eab35a;
 
 *, *::before, *::after {
   font-family: 'Open Sans', sans-serif;
@@ -116,7 +118,12 @@ h1, h2, h3, h4, h5 {
   background-color: #e85050;
 }
 
-.red {
+.player-text[data-color="red"] {
+  box-shadow: 0 0 20px hsl(0, 91%, 47%);
+  color:hsl(0, 91%, 47%);
+}
+
+.message[data-color="red"] {
   color: red;
 }
 
@@ -125,11 +132,7 @@ h1, h2, h3, h4, h5 {
   background-color: #50a6e8;
 }
 
-.player-text.red {
-  box-shadow: 0 0 20px hsl(0, 91%, 47%);
-}
-
-.blue {
+.message[data-color="blue"] {
   color: blue;
 }
 
@@ -138,23 +141,20 @@ h1, h2, h3, h4, h5 {
   background-color: #4dd945;
 }
 
-.green {
+.message[data-color="green"] {
   color: green;
 }
 
 .text-letter.orange {
-  border-color: orange;
-  background-color: #eab35a;
+  border-color: $textOrange;
+  background-color: $lightOrange;
 }
 
-.player-text.orange {
-  box-shadow: 0 0 20px hsl(30, 100%, 50%);
+.player-text[data-color="orange"] {
+  box-shadow: 0 0 20px $textOrange;
+  color: $textOrange;
 }
 
-.orange {
-  color: hsl(30, 100%, 50%);
-}
-
-#letter {
-  transition: .1s linear;
+.message[data-color="orange"] {
+  color: $textOrange;
 }

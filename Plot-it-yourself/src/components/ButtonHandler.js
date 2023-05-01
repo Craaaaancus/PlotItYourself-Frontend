@@ -25,20 +25,21 @@ export class ButtonHandler {
   }
 
   play(){
-    const delay = 500
-    let playerStep = 1
-    let opponentStep = 1
+    const delay = 1000
+    let playerStep = 0
+    let opponentStep = 0
     let intervalID = setInterval(() => {
-      this.stepController.lengthStep(this.player, playerStep++)
-      this.stepController.lengthStep(this.opponent, opponentStep++)
-      //this.stepController.setStep(this.player, playerStep++)
-      //this.stepController.setStep(this.opponent, opponentStep++)
-      if (playerStep + opponentStep > this.stepsCount + 2){
+      if (playerStep < window.gameConfig.playerSteps.length){
+        this.stepController.setStep(this.player, playerStep++)
+      }
+      if (opponentStep < window.gameConfig.opponentSteps.length){
+        this.stepController.setStep(this.opponent, opponentStep++)
+      }
+      let startSteps = 2
+      if (playerStep + opponentStep >= this.stepsCount + startSteps){
         clearInterval(intervalID)
-        alert('f')
+        alert('finish')
       }
     }, delay)
   }
-
-
 }

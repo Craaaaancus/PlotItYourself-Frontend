@@ -11,15 +11,17 @@ export class App {
     this.playerTextBlock = new PlayerText(this.player);
     this.opponentTextBlock = new PlayerText(this.opponent);
     this.stepController = new StepController();
-    this.ButtonHandler = new ButtonHandler()
+    this.ButtonHandler = new ButtonHandler();
     this.component = this.getComponent();
   }
 
-  start(){
-    this.stepController.initTextStep(this.player);
-    this.stepController.initTextStep(this.opponent);
-    const buttons = this.component.querySelector('.buttons-container')
-    buttons.addEventListener('click', this.ButtonHandler)
+  start() {
+    this.stepController.setPlayer(this.player)
+    this.stepController.setPlayerText(this.player, 0)
+    this.stepController.setPlayer(this.opponent)
+    this.stepController.setPlayerText(this.opponent, 0)
+    const buttons = this.component.querySelector('.buttons-container');
+    buttons.addEventListener('click', this.ButtonHandler);
   }
 
   getComponent() {
