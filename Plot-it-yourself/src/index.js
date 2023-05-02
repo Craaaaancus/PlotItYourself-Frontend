@@ -44,7 +44,9 @@ function setGameData(textData, gameData){
   gameData.opponentSteps = []
   let firstSteps = 2
   while (step <= (gameData.stepsCount + firstSteps)){
-    let stepInfo = nextLine().split(/ +/)
+    let next = nextLine()
+    if (!next) break
+    let stepInfo = next.split(/ +/)
     if (!stepInfo.length) break
     let stepText = nextLine()
     let stepData = {}
@@ -67,7 +69,6 @@ async function start() {
   window.gameConfig = await getData(2)
   console.log(window.gameConfig)
   const app = new App()
-  document.body.append(app.getComponent())
   app.start()
 }
 start()

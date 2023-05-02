@@ -1,9 +1,16 @@
 $rowLength: 15;
 $letterSize: 28px;
 $textContainerWidth: calc($letterSize * $rowLength);
-$redcolor: #b83636;
+$textRed: hsl(0, 91%, 47%);
+$lightRed: #e75959;
 $textOrange: hsl(30, 100%, 50%);
 $lightOrange: #eab35a;
+$textGreen: hsl(124, 76%, 30%);
+$lightGreen: #83f26f;
+$textBlue: hsl(229, 78%, 52%);
+$lightBlue: #37d8e1;
+$buttonOrange: hsl(30, 100%, 50%);
+$buttonActiveOrange: hsl(30, 100%, 40%);
 
 *, *::before, *::after {
   font-family: 'Open Sans', sans-serif;
@@ -56,7 +63,7 @@ h1, h2, h3, h4, h5 {
 
 .btn {
   font-size: inherit;
-  background-color: hsl(30, 100%, 50%);
+  background-color: $buttonOrange;
   padding: 0.5em 1em;
   margin: 0 0.5rem;
   outline: none;
@@ -65,6 +72,10 @@ h1, h2, h3, h4, h5 {
   cursor: pointer;
   border-radius: 0.2em;
   color: #f3f3f3;
+}
+
+.btn:hover:not(.btn[disabled]), .btn:focus:not(.btn[disabled]) {
+  background-color: $buttonActiveOrange;
 }
 
 .btn:hover ~ .tooltip-text {
@@ -85,8 +96,7 @@ h1, h2, h3, h4, h5 {
   width: 100%;
   margin: 0 auto;
   display: grid;
-  grid-template-columns: 
-    repeat($rowLength, $letterSize);
+  grid-template-columns: repeat($rowLength, $letterSize);
   user-select: none;
   background: #c6c3c3;
   transition: .1s linear;
@@ -105,7 +115,7 @@ h1, h2, h3, h4, h5 {
   justify-content: center;
   align-items: center;
   background: #edebeb;
-  transition: color .3s;
+  transition: color .3s, background-color .3s;
 }
 
 .game-info {
@@ -113,39 +123,7 @@ h1, h2, h3, h4, h5 {
   text-align: justify;
 }
 
-.text-letter.red {
-  border: 1px solid red;
-  background-color: #e85050;
-}
-
-.player-text[data-color="red"] {
-  box-shadow: 0 0 20px hsl(0, 91%, 47%);
-  color:hsl(0, 91%, 47%);
-}
-
-.message[data-color="red"] {
-  color: red;
-}
-
-.text-letter.blue {
-  border-color: blue;
-  background-color: #50a6e8;
-}
-
-.message[data-color="blue"] {
-  color: blue;
-}
-
-.text-letter.green {
-  border-color:green;
-  background-color: #4dd945;
-}
-
-.message[data-color="green"] {
-  color: green;
-}
-
-.text-letter.orange {
+.text-letter[data-color="orange"] {
   border-color: $textOrange;
   background-color: $lightOrange;
 }
@@ -157,4 +135,36 @@ h1, h2, h3, h4, h5 {
 
 .message[data-color="orange"] {
   color: $textOrange;
+}
+
+.text-letter[data-color="red"] {
+  border-color: $textRed;
+  background-color: $lightRed;
+}
+
+.player-text[data-color="red"] {
+  box-shadow: 0 0 20px $textRed;
+  color: $textRed;
+}
+
+.message[data-color="red"] {
+  color: $textRed;
+}
+
+.text-letter[data-color="blue"] {
+  border-color: $textBlue;
+  background-color: $lightBlue;
+}
+
+.message[data-color="blue"] {
+  color: $textBlue;
+}
+
+.text-letter[data-color="green"] {
+  border-color: $textGreen;
+  background-color: $lightGreen;
+}
+
+.message[data-color="green"] {
+  color: $textGreen;
 }

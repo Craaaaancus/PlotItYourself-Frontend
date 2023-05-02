@@ -1,7 +1,7 @@
 import { AppButtons } from './AppButtons.js';
 import { PlayerText } from './PlayerText.js';
-import { StepController } from './StepController.js';
 import { ButtonHandler } from './ButtonHandler.js';
+import { StepVisualizer } from './StepVisualizer.js';
 
 export class App {
   constructor() {
@@ -10,18 +10,20 @@ export class App {
     this.opponent = 2;
     this.playerTextBlock = new PlayerText(this.player);
     this.opponentTextBlock = new PlayerText(this.opponent);
-    this.stepController = new StepController();
-    this.ButtonHandler = new ButtonHandler();
     this.component = this.getComponent();
   }
 
   start() {
-    this.stepController.setPlayer(this.player)
-    this.stepController.setPlayerText(this.player, 0)
-    this.stepController.setPlayer(this.opponent)
-    this.stepController.setPlayerText(this.opponent, 0)
+    document.body.append(this.component)
     const buttons = this.component.querySelector('.buttons-container');
-    buttons.addEventListener('click', this.ButtonHandler);
+    buttons.addEventListener('click', new ButtonHandler());
+    const stepVisualizer = new StepVisualizer()
+    stepVisualizer.setPlayersText(
+      window.gameConfig.source, window.gameConfig.source
+    )
+    stepVisualizer.setPlayersName(
+      window.gameConfig.playerName, window.gameConfig.opponentName
+    )
   }
 
   getComponent() {
@@ -34,8 +36,7 @@ export class App {
         ${this.playerTextBlock.getComponent().outerHTML}
         ${this.opponentTextBlock.getComponent().outerHTML}
       </div>
-    `;
-
+    `
     return main;
   }
 }

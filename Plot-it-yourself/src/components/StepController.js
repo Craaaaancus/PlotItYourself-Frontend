@@ -1,5 +1,9 @@
+import { StepVisualizer } from "./StepVisualizer.js";
+
 export class StepController {
-  constructor() {}
+  constructor() {
+    this.renderer = new StepVisualizer()
+  }
 
   setPlayer(playerNum) {
     if (playerNum === 1) {
@@ -11,7 +15,7 @@ export class StepController {
         Игрок 
         <b>
           ${window.gameConfig.playerName}
-          <span class="message"></span>
+          <span class="message" data-color="red">asdfasdfasdfasdfas</span>
         </b> 
       `;
     }
@@ -28,6 +32,7 @@ export class StepController {
         </b> 
       `;
     }
+
   }
 
   setStep(playerNum, step) {
@@ -70,7 +75,7 @@ export class StepController {
 
   setPlayerText(playerNum, step){
     const stepData = this.getStepData(playerNum, step)
-    if (!stepData) return 
+    if (!stepData) return
     const letters = stepData.text.split('')
     this.playerText.innerHTML = ''
     for (let i = 0; i < letters.length; i++) {
@@ -180,5 +185,13 @@ export class StepController {
     let message = this.playerInfo.querySelector('.message');
     message.textContent = setCharStepMessage;
     message.dataset.color = 'green'
+  }
+
+  outOfBoundsStep(playerNum, step){
+
+  }
+
+  notFoundStep(playerNum, step){
+
   }
 }
