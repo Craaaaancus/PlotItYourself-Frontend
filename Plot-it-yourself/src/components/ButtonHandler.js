@@ -6,12 +6,16 @@ export class ButtonHandler {
     this.opponent = 2
     this.playerStep = -1
     this.opponentStep = -1
-    this.gameStep = 0
     this.timerDelay = 1000
     this.timerID = 0
     this.stepsCount = window.gameConfig.stepsCount
     this.lastPlayerStep = window.gameConfig.playerSteps.length - 1
     this.lastOpponentStep = window.gameConfig.opponentSteps.length - 1
+    if (this.lastPlayerStep >= this.lastOpponentStep){
+      this.maxSteps = this.lastPlayerStep
+    }
+    else this.maxSteps = this.lastOpponentStep
+
     this.rewindButton = document.querySelector('#rewind')
     this.prevButton = document.querySelector('#prev')
     this.playButton = document.querySelector('#play')
@@ -59,18 +63,50 @@ export class ButtonHandler {
       case 'left':
         this.rewindButton.disabled = true
         this.prevButton.disabled = true
+        break
       case 'right':
         this.nextButton.disabled = true
         this.forwardButton.disabled = true
+        break
       case 'all':
         this.rewindButton.disabled = true
         this.prevButton.disabled = true
         this.nextButton.disabled = true
         this.forwardButton.disabled = true
+        break
     }
   }
 
-  setButtonState(state = 'play'){
+  activateButtons(side = 'all'){
+    switch(side){
+      case 'left':
+        this.rewindButton.disabled = false
+        this.prevButton.disabled = false
+        break
+      case 'right':
+        this.nextButton.disabled = false
+        this.forwardButton.disabled = false
+        break
+      case 'all':
+        this.rewindButton.disabled = false
+        this.prevButton.disabled = false
+        this.nextButton.disabled = false
+        this.forwardButton.disabled = false
+        break
+    }
+  }
+
+  setButtonsState(){
+    const isFirstStep = this.playerStep === 0 || this.opponentStep === 0
+    if (isFirstStep) this.disableButtons('left')
+    else this.activateButtons('left')
+    const isLastStep = this.playerStep === this.lastPlayerStep && 
+                       this.opponentStep === this.lastOpponentStep
+    if (isLastStep) this.disableButtons('right')
+    else this.activateButtons('right')
+  }
+
+  setPlayButtonIcon(state = 'play'){
     let playState = 'none', pauseState = 'none', restartState = 'none'
     const none = 'none'
     const inlineBlock = 'inline-block'
@@ -112,7 +148,7 @@ export class ButtonHandler {
 
   play(playerCurrentStep = 0, opponentCurrentStep = 0){
     this.disableButtons('all')
-    this.setButtonState('pause')
+    this.setPlayButtonIcon('pause')
     this.playerStep = playerCurrentStep > 0 ? playerCurrentStep : 0
     this.opponentStep = opponentCurrentStep > 0 ? opponentCurrentStep : 0
     this.stepController.setStep(this.player, this.playerStep)
@@ -121,7 +157,8 @@ export class ButtonHandler {
       if (this.isFinished()){
         clearInterval(this.intervalID)
         this.intervalID = 0
-        this.setButtonState('restart')
+        this.setPlayButtonIcon('restart')
+        this.setButtonsState()
         alert('finish')
       }
       if (this.playerStep < this.lastPlayerStep){
@@ -140,7 +177,8 @@ export class ButtonHandler {
       clearInterval(this.intervalID)
       this.intervalID = 0
     }
-    this.setButtonState('play')
+    this.setPlayButtonIcon('play')
+    this.setButtonsState()
   }
 
   restart(){
@@ -152,24 +190,36 @@ export class ButtonHandler {
   rewind(){
     this.playerStep = 0
     this.opponentStep = 0
-    this.disableButtons('right')
+    this.setButtonsState()
     this.stepController.setStep(this.player, this.playerStep)
     this.stepController.setStep(this.opponent, this.opponentStep)
   }
 
   prev(){
-
-    
+    if (this.playerStep > 0) this.playerStep--
+    if (this.opponentStep > 0) this.opponentStep--
+    this.setButtonsState()
+    this.stepController.setStep(this.player, this.playerStep)
+    this.stepController.setStep(this.opponent, this.opponentStep)
   }
 
   next(){
-    alert('next')
+    if (this.playerStep < this.lastPlayerStep) this.playerStep++
+    if (this.opponentStep < this.lastOpponentStep) this.opponentStep++
+    this.setButtonsState()
+    this.stepController.setStep(this.player, this.playerStep)
+    this.stepController.setStep(this.opponent, this.opponentStep)
+    if (this.isFinished()) {
+      this.setPlayButtonIcon('restart')
+      alert('finish')
+    }
   }
 
   forward(){
     this.playerStep = this.lastPlayerStep
     this.opponentStep = this.lastOpponentStep
-    this.disableButtons('left')
+    this.setPlayButtonIcon('restart')
+    this.setButtonsState()
     this.stepController.setStep(this.player, this.playerStep)
     this.stepController.setStep(this.opponent, this.opponentStep)
     alert('finish')
