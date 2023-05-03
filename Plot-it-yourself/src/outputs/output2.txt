@@ -7,7 +7,7 @@ Michelle
 170 156
 the   The   He   picked  up his  a book, opened to the page marked   with the A strip,   and take   his eyes from    the pathege.   As  he did so , the phone  rang The A.
 a   A   He   picked  up his  a book, opened to a page marked   with a A strip,   and take   his eyes from    a pathege.   As  he did so , a phone  rang A A.
-98
+40
 1 0 N N -1
 the   The   He   picked  up his  a book, opened to the page marked   with the A strip,   and take   his eyes from    the pathege.   As  he did so , the phone  rang The A.
 2 0 N N -1

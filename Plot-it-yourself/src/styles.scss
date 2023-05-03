@@ -92,7 +92,7 @@ h1, h2, h3, h4, h5 {
   padding: 10px 0;
 }
 
-.player-text, .opponent-text {
+.player-text {
   width: 100%;
   margin: 0 auto;
   display: grid;
@@ -115,7 +115,7 @@ h1, h2, h3, h4, h5 {
   justify-content: center;
   align-items: center;
   background: #edebeb;
-  transition: color .3s, background-color .3s;
+  transition: border-color .3s, background-color .3s;
 }
 
 .game-info {

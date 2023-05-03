@@ -4,8 +4,17 @@ export class ButtonHandler {
   constructor(){
     this.player = 1
     this.opponent = 2
+    this.playerStep = 0
+    this.opponentStep = 0
+    this.timerDelay = 1000
+    this.timerID = 0
     this.stepsCount = window.gameConfig.stepsCount
     this.stepController = new StepController()
+    this.rewindButton = document.querySelector('#rewind')
+    this.prevButton = document.querySelector('#prev')
+    this.playButton = document.querySelector('#play')
+    this.nextButton = document.querySelector('#next')
+    this.forwardButton = document.querySelector('#forward')
   }
 
   handleEvent(event){
@@ -16,30 +25,47 @@ export class ButtonHandler {
       const next    = event.target.closest('#next')
       const forward = event.target.closest('#forward')
 
-      if (rewind) this.rewind()
-      if (prev) this.prev()
-      if (play) this.play()
-      if (next) this.next()
-      if (forward) this.forward()
+      if (rewind && !rewind.disabled) this.rewind()
+      else if (prev && !prev.disabled) this.prev()
+      else if (play)  {
+        this.play()
+      }
+      else if (next && !next.disabled) this.next()
+      else if (forward && !forward.disabled) this.forward()
     }
   }
 
   play(){
-    const delay = 1000
-    let playerStep = 0
-    let opponentStep = 0
-    let intervalID = setInterval(() => {
-      if (playerStep < window.gameConfig.playerSteps.length){
-        this.stepController.setStep(this.player, playerStep++)
-      }
-      if (opponentStep < window.gameConfig.opponentSteps.length){
-        this.stepController.setStep(this.opponent, opponentStep++)
-      }
-      let startSteps = 2
-      if (playerStep + opponentStep >= this.stepsCount + startSteps){
-        clearInterval(intervalID)
+    this.intervalID = setInterval(() => {
+      const startSteps = 2
+      const currentStepsCount = this.playerStep + this.opponentStep
+      const maxStepsCount = this.stepsCount + startSteps
+      if (currentStepsCount >= maxStepsCount){
+        clearInterval(this.intervalID)
         alert('finish')
       }
-    }, delay)
+      if (this.playerStep < window.gameConfig.playerSteps.length){
+        this.stepController.setStep(this.player, this.playerStep++)
+      }
+      if (this.opponentStep < window.gameConfig.opponentSteps.length){
+        this.stepController.setStep(this.opponent, this.opponentStep++)
+      }
+    }, this.timerDelay)
+  }
+
+  rewind(){
+    alert('rewind')
+  }
+
+  prev(){
+    alert('prev')
+  }
+
+  next(){
+    alert('next')
+  }
+
+  forward(){
+    alert('forward')
   }
 }

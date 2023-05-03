@@ -5,61 +5,45 @@ export class StepController {
     this.renderer = new StepVisualizer()
   }
 
-  setPlayer(playerNum) {
-    if (playerNum === 1) {
-      this.playerText = document.querySelector('#playerText');
-      this.playerName = document.querySelector('#playerName');
-      this.playerName.textContent = window.gameConfig.playerName;
-      this.playerInfo = document.querySelector('#playerInfo');
-      this.playerInfo.innerHTML = `
-        Игрок 
-        <b>
-          ${window.gameConfig.playerName}
-          <span class="message" data-color="red">asdfasdfasdfasdfas</span>
-        </b> 
-      `;
-    }
-    if (playerNum === 2) {
-      this.playerText = document.querySelector('#opponentText');
-      this.playerName = document.querySelector('#opponentName');
-      this.playerName.textContent = window.gameConfig.opponentName;
-      this.playerInfo = document.querySelector('#opponentInfo');
-      this.playerInfo.innerHTML = `
-        Оппонент 
-        <b>
-          ${window.gameConfig.opponentName}
-          <span class="message"></span>
-        </b> 
-      `;
-    }
-
-  }
-
   setStep(playerNum, step) {
-    this.setPlayer(playerNum);
-    const stepData = this.getStepData(playerNum, step);
+    const stepData = this.getStepData(playerNum, step)
     if (!stepData) return
     switch (stepData.typeMove) {
       case 'N':
-        this.startStep(playerNum)
+        this.startStep(playerNum, step)
         break
       case 'L':
         this.lengthStep(playerNum, step);
         break;
       case 'G':
-        this.getCharStep(playerNum, step);
+        if (stepData.moveResult === 'O'){
+          this.outOfBoundsStep(playerNum, step)
+        }
+        else this.getCharStep(playerNum, step);
         break;
       case 'S':
-        this.setCharStep(playerNum, step);
+        if (stepData.moveResult === 'O'){
+          this.outOfBoundsStep(playerNum, step)
+        }
+        else this.setCharStep(playerNum, step);
         break;
       case 'D':
-        this.deleteCharsStep(playerNum, step);
+        if (stepData.moveResult === 'O'){
+          this.outOfBoundsStep(playerNum, step)
+        }
+        else this.deleteCharsStep(playerNum, step);
         break;
       case 'F':
-        this.findStrStep(playerNum, step);
+        if (stepData.moveResult === 'F'){
+          this.notFoundStep(playerNum, step)
+        }
+        else this.findStrStep(playerNum, step);
         break;
       case 'I':
-        this.insCharStep(playerNum, step);
+        if (stepData.moveResult === 'O'){
+          this.outOfBoundsStep(playerNum, step)
+        }
+        else this.insCharStep(playerNum, step);
         break;
     }
   }
@@ -73,125 +57,128 @@ export class StepController {
     }
   }
 
-  setPlayerText(playerNum, step){
+  startStep(playerNum, step) {
     const stepData = this.getStepData(playerNum, step)
     if (!stepData) return
-    const letters = stepData.text.split('')
-    this.playerText.innerHTML = ''
-    for (let i = 0; i < letters.length; i++) {
-      const letterHTML = `
-        <div class="text-letter">${letters[i]}</div>
-      `;
-      this.playerText.insertAdjacentHTML('beforeend', letterHTML);
-    }
-  }
-
-  startStep(playerNum) {
     const initStepMessage = 'начал задачу';
-    let initStep = 0
-    this.setPlayer(playerNum);
-    this.setPlayerText(playerNum, initStep)
-
-    this.playerText.dataset.color = ''
-    let message = this.playerInfo.querySelector('.message');
-    message.textContent = initStepMessage;
-    message.dataset.color = 'orange'
+    const color = 'orange'
+    this.renderer.setPlayerText(playerNum, stepData.text)
+    this.renderer.setPlayerStepInfo(playerNum, step, initStepMessage, color)
+    this.renderer.highlightPlayerText(playerNum)
   }
 
   lengthStep(playerNum, step) {
-    this.setPlayer(playerNum);
     const stepData = this.getStepData(playerNum, step);
     if (!stepData) return;
-    this.setPlayerText(playerNum, step)
     const lengthStepMessage = `
       получил длину текста в ${stepData.text.length} символов
-    `;
-    this.playerText.dataset.color = 'orange'
-    let message = this.playerInfo.querySelector('.message');
-    message.textContent = lengthStepMessage;
-    message.dataset.color = 'orange'
+    `
+    const color = 'orange'
+    this.renderer.setPlayerText(playerNum, stepData.text)
+    this.renderer.setPlayerStepInfo(playerNum, step, lengthStepMessage, color)
+    this.renderer.highlightPlayerText(playerNum, color)
   }
 
   getCharStep(playerNum, step){
-    this.setPlayer(playerNum)
     const stepData = this.getStepData(playerNum, step);
     if (!stepData) return
-    this.setPlayerText(playerNum, step)
-
-    this.playerText.dataset.color = ''
+    const text = stepData.text
+    const position = stepData.position
     const getCharStepMessage = `
-      получил символ с индексом
+      получил символ ${text[position]} на позиции ${position}
     `
-    let message = this.playerInfo.querySelector('.message');
-    message.textContent = getCharStepMessage;
-    message.dataset.color = 'blue'
+    const color = 'blue'
+    this.renderer.setPlayerText(playerNum, text)
+    this.renderer.setPlayerStepInfo(playerNum, step, getCharStepMessage, color)
+    this.renderer.highlightPlayerText(playerNum)
+    this.renderer.highlightPlayerLetters(playerNum, color, position)
   }
 
   setCharStep(playerNum, step){
-    this.setPlayer(playerNum)
     const stepData = this.getStepData(playerNum, step);
     if (!stepData) return
-    this.setPlayerText(playerNum, step)
-    
-    this.playerText.dataset.color = ''
+    const text = stepData.text
+    const position = stepData.position
     const setCharStepMessage = `
-      установил символ на позиции
+      установил символ ${text[position]} на позиции ${position}
     `
-    let message = this.playerInfo.querySelector('.message');
-    message.textContent = setCharStepMessage;
-    message.dataset.color = 'green'
+    const color = 'green'
+    this.renderer.setPlayerText(playerNum, text)
+    this.renderer.setPlayerStepInfo(playerNum, step, setCharStepMessage, color)
+    this.renderer.highlightPlayerText(playerNum)
+    this.renderer.highlightPlayerLetters(playerNum, color, position)
   }
 
   deleteCharsStep(playerNum, step){
-    this.setPlayer(playerNum)
-    const stepData = this.getStepData(playerNum, step);
-    if (!stepData) return
-    this.setPlayerText(playerNum, step)
-    
-    this.playerText.dataset.color = ''
+    const stepDataPrev = this.getStepData(playerNum, step - 1)
+    const stepData = this.getStepData(playerNum, step)
+    if (!stepDataPrev || !stepData) return
+    const text = stepDataPrev.text
+    const position = stepData.position
+    const count = text.length - stepData.text.length
     const deleteCharsStepMessage = `
-      удалил символов в диапазоне от до
+      удалил ${count} символов на позиции ${position}
     `
-    let message = this.playerInfo.querySelector('.message');
-    message.textContent = deleteCharsStepMessage;
-    message.dataset.color = 'red'
+    const color = 'red'
+    this.renderer.setPlayerText(playerNum, text)
+    this.renderer.setPlayerStepInfo(playerNum, step, deleteCharsStepMessage, color)
+    this.renderer.highlightPlayerText(playerNum)
+    this.renderer.highlightPlayerLetters(playerNum, color, position, count)
   }
 
   findStrStep(playerNum, step){
-    this.setPlayer(playerNum)
     const stepData = this.getStepData(playerNum, step);
     if (!stepData) return
-    this.setPlayerText(playerNum, step)
-    
-    this.playerText.dataset.color = ''
+    const text = stepData.text
+    const position = stepData.position
     const findStrStepMessage = `
-      обнаружил строку на позиции
+      обнаружил строку на позиции ${position}
     `
-    let message = this.playerInfo.querySelector('.message');
-    message.textContent = findStrStepMessage;
-    message.dataset.color = 'blue'
+    const color = 'blue'
+    this.renderer.setPlayerText(playerNum, text)
+    this.renderer.setPlayerStepInfo(playerNum, step, findStrStepMessage, color)
+    this.renderer.highlightPlayerText(playerNum)
+    this.renderer.highlightPlayerLetters(playerNum, color, position)
   }
 
   insCharStep(playerNum, step){
-    this.setPlayer(playerNum)
-    const stepData = this.getStepData(playerNum, step);
+    const stepData = this.getStepData(playerNum, step)
     if (!stepData) return
-    this.setPlayerText(playerNum, step)
-    
-    this.playerText.dataset.color = ''
-    const setCharStepMessage = `
-      вставил символ на позиции
+    const text = stepData.text
+    const position = stepData.position
+    const insCharStepMessage = `
+      вставил символ ${text[position]} на позицию ${position}
     `
-    let message = this.playerInfo.querySelector('.message');
-    message.textContent = setCharStepMessage;
-    message.dataset.color = 'green'
+    const color = 'green'
+    this.renderer.setPlayerText(playerNum, text)
+    this.renderer.setPlayerStepInfo(playerNum, step, insCharStepMessage, color)
+    this.renderer.highlightPlayerText(playerNum)
+    this.renderer.highlightPlayerLetters(playerNum, color, position)
   }
 
   outOfBoundsStep(playerNum, step){
-
+    const stepData = this.getStepData(playerNum, step)
+    if (!stepData) return
+    const text = stepData.text
+    const outOfBoundsStepMessage = `
+      номер символа находится за границами строки
+    `
+    const color = 'red'
+    this.renderer.setPlayerText(playerNum, text)
+    this.renderer.setPlayerStepInfo(playerNum, step, outOfBoundsStepMessage, color)
+    this.renderer.highlightPlayerText(playerNum, color)
   }
 
   notFoundStep(playerNum, step){
-
+    const stepData = this.getStepData(playerNum, step)
+    if (!stepData) return
+    const text = stepData.text
+    const notFoundStepMessage = `
+      искомый элемент не был найден
+    `
+    const color = 'red'
+    this.renderer.setPlayerText(playerNum, text)
+    this.renderer.setPlayerStepInfo(playerNum, step, notFoundStepMessage, color)
+    this.renderer.highlightPlayerText(playerNum, color)
   }
 }

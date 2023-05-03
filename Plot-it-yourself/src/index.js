@@ -53,6 +53,7 @@ function setGameData(textData, gameData){
     stepData.step       = parseInt(stepInfo[1])
     stepData.typeMove   = stepInfo[2]
     stepData.moveResult = stepInfo[3]
+    stepData.position = parseInt(stepInfo[4])
     stepData.text       = stepText
 
     if (parseInt(stepInfo[0]) === 1){

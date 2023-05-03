@@ -14,16 +14,16 @@ export class App {
   }
 
   start() {
-    document.body.append(this.component)
+    document.body.append(this.component);
     const buttons = this.component.querySelector('.buttons-container');
     buttons.addEventListener('click', new ButtonHandler());
-    const stepVisualizer = new StepVisualizer()
-    stepVisualizer.setPlayersText(
-      window.gameConfig.source, window.gameConfig.source
+    const stepVisualizer = new StepVisualizer();
+    stepVisualizer.setPlayerNames(
+      window.gameConfig.playerName,
+      window.gameConfig.opponentName
     )
-    stepVisualizer.setPlayersName(
-      window.gameConfig.playerName, window.gameConfig.opponentName
-    )
+    stepVisualizer.setPlayerText(this.player, window.gameConfig.source)
+    stepVisualizer.setPlayerText(this.opponent, window.gameConfig.source)
   }
 
   getComponent() {
@@ -36,7 +36,7 @@ export class App {
         ${this.playerTextBlock.getComponent().outerHTML}
         ${this.opponentTextBlock.getComponent().outerHTML}
       </div>
-    `
+    `;
     return main;
   }
 }
