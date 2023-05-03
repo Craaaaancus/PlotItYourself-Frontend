@@ -43,7 +43,7 @@ export class StepVisualizer {
       this.playerInfo.innerHTML = `
         <b>Ход ${step}:</b> игрок 
         <b>
-          ${this.playerName.textContent}
+          ${this.playerName.textContent} <br>
           <span class="message" data-color="${color}">${message}</span>
         </b>
       `
@@ -52,7 +52,7 @@ export class StepVisualizer {
       this.opponentInfo.innerHTML = `
         <b>Ход ${step}:</b> оппонент 
         <b>
-          ${this.opponentName.textContent}
+          ${this.opponentName.textContent} <br>
           <span class="message" data-color="${color}">${message}</span>
         </b>
       `
@@ -75,7 +75,10 @@ export class StepVisualizer {
       let letter
       if (playerNum === 1) letter = this.playerText.querySelector(selector)
       if (playerNum === 2) letter = this.opponentText.querySelector(selector)
-      if (letter) letter.dataset.color = color
+      if (letter) {
+        let delay = 5
+        setTimeout(() => letter.dataset.color = color, delay)
+      }
       currentPos++
     }
   }

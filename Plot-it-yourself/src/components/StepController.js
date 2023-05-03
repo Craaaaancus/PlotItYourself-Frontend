@@ -85,7 +85,7 @@ export class StepController {
     const text = stepData.text
     const position = stepData.position
     const getCharStepMessage = `
-      получил символ ${text[position]} на позиции ${position}
+      получил символ '${text[position]}' на позиции ${position}
     `
     const color = 'blue'
     this.renderer.setPlayerText(playerNum, text)
@@ -100,7 +100,7 @@ export class StepController {
     const text = stepData.text
     const position = stepData.position
     const setCharStepMessage = `
-      установил символ ${text[position]} на позиции ${position}
+      установил символ '${text[position]}' на позицию ${position}
     `
     const color = 'green'
     this.renderer.setPlayerText(playerNum, text)
@@ -132,7 +132,7 @@ export class StepController {
     const text = stepData.text
     const position = stepData.position
     const findStrStepMessage = `
-      обнаружил строку на позиции ${position}
+      обнаружил искомую строку на позиции ${position}
     `
     const color = 'blue'
     this.renderer.setPlayerText(playerNum, text)
@@ -147,7 +147,7 @@ export class StepController {
     const text = stepData.text
     const position = stepData.position
     const insCharStepMessage = `
-      вставил символ ${text[position]} на позицию ${position}
+      вставил символ '${text[position]}' на позицию ${position}
     `
     const color = 'green'
     this.renderer.setPlayerText(playerNum, text)
@@ -161,7 +161,7 @@ export class StepController {
     if (!stepData) return
     const text = stepData.text
     const outOfBoundsStepMessage = `
-      номер символа находится за границами строки
+      вышел за пределы строки
     `
     const color = 'red'
     this.renderer.setPlayerText(playerNum, text)
@@ -174,7 +174,7 @@ export class StepController {
     if (!stepData) return
     const text = stepData.text
     const notFoundStepMessage = `
-      искомый элемент не был найден
+      не нашел искомый элемент
     `
     const color = 'red'
     this.renderer.setPlayerText(playerNum, text)

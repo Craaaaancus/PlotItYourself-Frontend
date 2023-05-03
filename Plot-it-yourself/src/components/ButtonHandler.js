@@ -196,8 +196,12 @@ export class ButtonHandler {
   }
 
   prev(){
-    if (this.playerStep > 0) this.playerStep--
-    if (this.opponentStep > 0) this.opponentStep--
+    if (this.playerStep > 0 && this.playerStep >= this.opponentStep){
+      this.playerStep--
+    }
+    if (this.opponentStep > 0 && this.opponentStep >= this.playerStep){
+      this.opponentStep--
+    }
     this.setButtonsState()
     this.stepController.setStep(this.player, this.playerStep)
     this.stepController.setStep(this.opponent, this.opponentStep)
