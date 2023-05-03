@@ -6,6 +6,7 @@ export class ButtonHandler {
     this.opponent = 2
     this.playerStep = -1
     this.opponentStep = -1
+    this.gameStep = 0
     this.timerDelay = 1000
     this.timerID = 0
     this.stepsCount = window.gameConfig.stepsCount
@@ -38,10 +39,10 @@ export class ButtonHandler {
       else if (play)  {
         switch(play.dataset.status){
           case 'play':
-            this.play()
+            this.play(this.playerStep, this.opponentStep)
             break
-          case 'stop':
-            this.stop()
+          case 'pause':
+            this.pause()
             break
           case 'restart':
             this.restart()
@@ -109,11 +110,11 @@ export class ButtonHandler {
     else return false
   }
 
-  play(){
+  play(playerCurrentStep = 0, opponentCurrentStep = 0){
     this.disableButtons('all')
     this.setButtonState('pause')
-    this.playerStep = this.playerStep > 0 ? this.playerStep : 0
-    this.opponentStep = this.opponentStep > 0 ? this.opponentStep : 0
+    this.playerStep = playerCurrentStep > 0 ? playerCurrentStep : 0
+    this.opponentStep = opponentCurrentStep > 0 ? opponentCurrentStep : 0
     this.stepController.setStep(this.player, this.playerStep)
     this.stepController.setStep(this.opponent, this.opponentStep)
     this.intervalID = setInterval(() => {
@@ -134,7 +135,7 @@ export class ButtonHandler {
     }, this.timerDelay)
   }
 
-  stop(){
+  pause(){
     if (this.intervalID){
       clearInterval(this.intervalID)
       this.intervalID = 0
