@@ -14,19 +14,19 @@ export class AppButtons {
       <div class="tooltip">
         ${this.getPlayButton().outerHTML}
         <span 
-          id="tooltip-text-restart"
+          id="tooltipTextRestart"
           class="tooltip-text"
           style="display: none">
           Рестарт
         </span>
         <span 
-          id="tooltip-text-play"
+          id="tooltipTextPlay"
           class="tooltip-text"
           style="display: inline-block">
           Запустить
         </span>
         <span 
-          id="tooltip-text-pause"
+          id="tooltipTextPause"
           class="tooltip-text"
           style="display: none">
           Пауза
@@ -104,19 +104,20 @@ export class AppButtons {
   getPlayButton(){
     const playBtn = document.createElement('button')
     playBtn.id = 'play'
-    playBtn.className = 'btn restart'
+    playBtn.className = 'btn'
+    playBtn.dataset.status = 'play'
     playBtn.innerHTML = `
-      <span id="icon-restart" style="display:none;">
+      <span id="iconRestart" style="display:none;">
         <svg style="width:24px;height:24px;" viewBox="0 0 24 24">
           <path fill="currentColor" d="M17.65,6.35C16.2,4.9 14.21,4 12,4A8,8 0 0,0 4,12A8,8 0 0,0 12,20C15.73,20 18.84,17.45 19.73,14H17.65C16.83,16.33 14.61,18 12,18A6,6 0 0,1 6,12A6,6 0 0,1 12,6C13.66,6 15.14,6.69 16.22,7.78L13,11H20V4L17.65,6.35Z"></path>
         </svg>
       </span>
-      <span id="icon-play" style="display:inline-block;">
+      <span id="iconPlay" style="display:inline-block;">
         <svg style="width:24px;height:24px;" viewBox="0 0 24 24">
           <path fill="currentColor" d="M8,5.14V19.14L19,12.14L8,5.14Z"></path>
         </svg>
       </span>
-      <span id="icon-pause" style="display:none;">
+      <span id="iconPause" style="display:none;">
         <svg style="width:24px;height:24px;" viewBox="0 0 24 24">
           <path fill="currentColor" d="M14,19H18V5H14M6,19H10V5H6V19Z"></path>
         </svg>
