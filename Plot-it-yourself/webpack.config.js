@@ -30,7 +30,7 @@ const baseConfig = {
   },
   output: {
     filename: 'script.js',
-    path: path.resolve(__dirname, './public'),
+    path: path.resolve(__dirname, './dist'),
   },
   plugins: [
     new HtmlWebpackPlugin({
@@ -45,7 +45,7 @@ const baseConfig = {
       patterns: [
         {
           from: path.resolve(__dirname, "./src/outputs"),
-          to: path.resolve(__dirname, './public/outputs')
+          to: path.resolve(__dirname, './dist/outputs')
         },
       ],
     })

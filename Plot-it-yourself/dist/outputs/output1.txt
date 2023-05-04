@@ -1,0 +1,2018 @@
+*#*#*#*#
+5678 1234 0
+1234 5678
+111111 222222
+Yura
+Michelle
+5000
+177 148
+1
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1001
+1 0 N N -1
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 0 N N -1
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 1 L N -1
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 1 L N -1
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 2 G N 0
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 2 G N 0
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 3 G N 1
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 3 L N -1
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 4 L N -1
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 4 G N 1
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 5 G N 1
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 5 L N -1
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 6 G N 2
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 6 G N 2
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 7 L N -1
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 7 L N -1
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 8 G N 2
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 8 G N 3
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 9 G N 3
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 9 G N 4
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 10 L N -1
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 10 L N -1
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 11 G N 3
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 11 G N 4
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 12 G N 4
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 12 L N -1
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 13 L N -1
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 13 G N 5
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 14 G N 4
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 14 L N -1
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 15 G N 5
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 15 G N 6
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 16 L N -1
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 16 L N -1
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 17 G N 5
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 17 G N 7
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 18 G N 6
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 18 G N 8
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 19 L N -1
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 19 L N -1
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 20 G N 6
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 20 G N 8
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 21 G N 7
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 21 L N -1
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 22 L N -1
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 22 G N 9
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 23 G N 7
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 23 L N -1
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 24 G N 8
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 24 G N 10
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 25 L N -1
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 25 G N 11
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 26 G N 8
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 26 D N 10
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 27 G N 9
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 27 L N -1
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 28 L N -1
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 28 G N 10
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 29 G N 9
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 29 G N 11
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 30 G N 10
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 30 L N -1
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 31 L N -1
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 31 G N 11
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 32 G N 10
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 32 L N -1
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 33 G N 11
+the The He  picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 33 G N 12
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 34 D N 10
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 34 L N -1
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 35 L N -1
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 35 G N 13
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 36 G N 10
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 36 L N -1
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 37 G N 11
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 37 G N 14
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 38 L N -1
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 38 L N -1
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 39 G N 11
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 39 G N 15
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 40 G N 12
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 40 L N -1
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 41 L N -1
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 41 G N 16
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 42 G N 12
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 42 L N -1
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 43 G N 13
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 43 G N 17
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 44 L N -1
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 44 G N 18
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 45 G N 13
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 45 L N -1
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 46 G N 14
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 46 G N 18
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 47 L N -1
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 47 L N -1
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 48 G N 14
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 48 G N 19
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 49 G N 15
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 49 L N -1
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 50 L N -1
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 50 G N 20
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 51 G N 15
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 51 G N 21
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 52 G N 16
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 52 L N -1
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 53 L N -1
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 53 G N 21
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 54 G N 16
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 54 L N -1
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 55 G N 17
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 55 G N 22
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 56 L N -1
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 56 L N -1
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 57 G N 17
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 57 G N 23
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 58 G N 18
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 58 L N -1
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 59 L N -1
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 59 G N 24
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 60 G N 18
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 60 G N 25
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 61 G N 19
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 61 L N -1
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 62 L N -1
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 62 G N 25
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 63 G N 19
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 63 L N -1
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 64 G N 20
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 64 G N 26
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 65 L N -1
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 65 G N 27
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 66 G N 20
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 66 D N 26
+the The He picked up his a  book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 67 G N 21
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 67 L N -1
+the The He picked up his a  book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 68 L N -1
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 68 G N 26
+the The He picked up his a  book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 69 G N 21
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 69 G N 27
+the The He picked up his a  book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 70 G N 22
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 70 D N 26
+the The He picked up his a book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 71 L N -1
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 71 L N -1
+the The He picked up his a book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 72 G N 22
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 72 G N 26
+the The He picked up his a book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 73 G N 23
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 73 G N 27
+the The He picked up his a book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 74 L N -1
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 74 L N -1
+the The He picked up his a book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 75 G N 23
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 75 G N 27
+the The He picked up his a book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 76 G N 24
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 76 L N -1
+the The He picked up his a book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 77 L N -1
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 77 G N 28
+the The He picked up his a book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 78 G N 24
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 78 L N -1
+the The He picked up his a book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 79 G N 25
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 79 G N 29
+the The He picked up his a book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 80 L N -1
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 80 L N -1
+the The He picked up his a book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 81 G N 25
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 81 G N 30
+the The He picked up his a book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 82 G N 26
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 82 L N -1
+the The He picked up his a book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 83 L N -1
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 83 G N 31
+the The He picked up his a book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 84 G N 26
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 84 L N -1
+the The He picked up his a book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 85 G N 27
+the The He picked up his a   book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 85 G N 32
+the The He picked up his a book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 86 D N 26
+the The He picked up his a  book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 86 G N 33
+the The He picked up his a book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 87 L N -1
+the The He picked up his a  book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 87 D N 32
+the The He picked up his a book, opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 88 G N 26
+the The He picked up his a  book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 88 L N -1
+the The He picked up his a book, opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 89 G N 27
+the The He picked up his a  book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 89 G N 32
+the The He picked up his a book, opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 90 D N 26
+the The He picked up his a book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 90 G N 33
+the The He picked up his a book, opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 91 L N -1
+the The He picked up his a book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 91 L N -1
+the The He picked up his a book, opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 92 G N 26
+the The He picked up his a book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 92 G N 33
+the The He picked up his a book, opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 93 G N 27
+the The He picked up his a book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 93 L N -1
+the The He picked up his a book, opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 94 L N -1
+the The He picked up his a book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 94 G N 34
+the The He picked up his a book, opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 95 G N 27
+the The He picked up his a book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 95 L N -1
+the The He picked up his a book, opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 96 G N 28
+the The He picked up his a book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 96 G N 35
+the The He picked up his a book, opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 97 L N -1
+the The He picked up his a book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 97 L N -1
+the The He picked up his a book, opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 98 G N 28
+the The He picked up his a book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 98 G N 36
+the The He picked up his a book, opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 99 G N 29
+the The He picked up his a book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 99 L N -1
+the The He picked up his a book, opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 100 L N -1
+the The He picked up his a book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 100 G N 37
+the The He picked up his a book, opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 101 G N 29
+the The He picked up his a book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 101 L N -1
+the The He picked up his a book, opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 102 G N 30
+the The He picked up his a book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 102 G N 38
+the The He picked up his a book, opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 103 L N -1
+the The He picked up his a book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 103 L N -1
+the The He picked up his a book, opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 104 G N 30
+the The He picked up his a book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 104 G N 39
+the The He picked up his a book, opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 105 G N 31
+the The He picked up his a book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 105 G N 40
+the The He picked up his a book, opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 106 L N -1
+the The He picked up his a book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 106 D N 39
+the The He picked up his a book, opened   to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 107 G N 31
+the The He picked up his a book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 107 L N -1
+the The He picked up his a book, opened   to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 108 G N 32
+the The He picked up his a book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 108 G N 39
+the The He picked up his a book, opened   to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 109 L N -1
+the The He picked up his a book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 109 G N 40
+the The He picked up his a book, opened   to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 110 G N 32
+the The He picked up his a book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 110 D N 39
+the The He picked up his a book, opened  to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 111 G N 33
+the The He picked up his a book,  opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 111 L N -1
+the The He picked up his a book, opened  to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 112 D N 32
+the The He picked up his a book, opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 112 G N 39
+the The He picked up his a book, opened  to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 113 L N -1
+the The He picked up his a book, opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 113 G N 40
+the The He picked up his a book, opened  to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 114 G N 32
+the The He picked up his a book, opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 114 D N 39
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 115 G N 33
+the The He picked up his a book, opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 115 L N -1
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 116 L N -1
+the The He picked up his a book, opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 116 G N 39
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 117 G N 33
+the The He picked up his a book, opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 117 G N 40
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 118 G N 34
+the The He picked up his a book, opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 118 L N -1
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 119 L N -1
+the The He picked up his a book, opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 119 G N 40
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 120 G N 34
+the The He picked up his a book, opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 120 L N -1
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 121 G N 35
+the The He picked up his a book, opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 121 G N 41
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 122 L N -1
+the The He picked up his a book, opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 122 L N -1
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 123 G N 35
+the The He picked up his a book, opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 123 G N 42
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 124 G N 36
+the The He picked up his a book, opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 124 G N 43
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 125 L N -1
+the The He picked up his a book, opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 125 L N -1
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 126 G N 36
+the The He picked up his a book, opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 126 G N 43
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 127 G N 37
+the The He picked up his a book, opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 127 L N -1
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 128 L N -1
+the The He picked up his a book, opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 128 G N 44
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 129 G N 37
+the The He picked up his a book, opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 129 L N -1
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 130 G N 38
+the The He picked up his a book, opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 130 G N 45
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 131 L N -1
+the The He picked up his a book, opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 131 L N -1
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 132 G N 38
+the The He picked up his a book, opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 132 G N 46
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 133 G N 39
+the The He picked up his a book, opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 133 G N 47
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 134 L N -1
+the The He picked up his a book, opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 134 L N -1
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 135 G N 39
+the The He picked up his a book, opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 135 G N 47
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 136 G N 40
+the The He picked up his a book, opened    to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 136 L N -1
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 137 D N 39
+the The He picked up his a book, opened   to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 137 G N 48
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 138 L N -1
+the The He picked up his a book, opened   to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 138 L N -1
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 139 G N 39
+the The He picked up his a book, opened   to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 139 G N 49
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 140 G N 40
+the The He picked up his a book, opened   to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 140 L N -1
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 141 D N 39
+the The He picked up his a book, opened  to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 141 G N 50
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 142 L N -1
+the The He picked up his a book, opened  to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 142 L N -1
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 143 G N 39
+the The He picked up his a book, opened  to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 143 G N 51
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 144 G N 40
+the The He picked up his a book, opened  to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 144 G N 52
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 145 D N 39
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 145 D N 51
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 146 L N -1
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 146 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 147 G N 39
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 147 G N 51
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 148 G N 40
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 148 G N 52
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 149 L N -1
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 149 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 150 G N 40
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 150 G N 52
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 151 G N 41
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 151 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 152 L N -1
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 152 G N 53
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 153 G N 41
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 153 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 154 G N 42
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 154 G N 54
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 155 L N -1
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 155 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 156 G N 42
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 156 G N 55
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 157 G N 43
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 157 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 158 L N -1
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 158 G N 56
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 159 G N 43
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 159 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 160 G N 44
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 160 G N 57
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 161 L N -1
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 161 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 162 G N 44
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 162 G N 58
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 163 G N 45
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 163 G N 59
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 164 L N -1
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 164 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 165 G N 45
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 165 G N 59
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 166 G N 46
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 166 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 167 L N -1
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 167 G N 60
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 168 G N 46
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 168 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 169 G N 47
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 169 G N 61
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 170 L N -1
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 170 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 171 G N 47
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 171 G N 62
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 172 G N 48
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 172 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 173 L N -1
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 173 G N 63
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 174 G N 48
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 174 G N 64
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 175 G N 49
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 175 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 176 L N -1
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 176 G N 64
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 177 G N 49
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 177 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 178 G N 50
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 178 G N 65
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 179 L N -1
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 179 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 180 G N 50
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 180 G N 66
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 181 G N 51
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 181 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 182 L N -1
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 182 G N 67
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 183 G N 51
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 183 G N 68
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 184 G N 52
+the The He picked up his a book, opened to the page  marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 184 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 185 D N 51
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 185 G N 68
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 186 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 186 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 187 G N 51
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 187 G N 69
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 188 G N 52
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 188 G N 70
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 189 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 189 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 190 G N 52
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 190 G N 70
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 191 G N 53
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 191 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 192 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 192 G N 71
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 193 G N 53
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 193 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 194 G N 54
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 194 G N 72
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 195 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 195 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 196 G N 54
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 196 G N 73
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 197 G N 55
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 197 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 198 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 198 G N 74
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 199 G N 55
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 199 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 200 G N 56
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 200 G N 75
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 201 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 201 G N 76
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 202 G N 56
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 202 D N 75
+the The He picked up his a book, opened to the page marked with the A strip  , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 203 G N 57
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 203 L N -1
+the The He picked up his a book, opened to the page marked with the A strip  , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 204 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 204 G N 75
+the The He picked up his a book, opened to the page marked with the A strip  , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 205 G N 57
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 205 G N 76
+the The He picked up his a book, opened to the page marked with the A strip  , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 206 G N 58
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 206 D N 75
+the The He picked up his a book, opened to the page marked with the A strip , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 207 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 207 L N -1
+the The He picked up his a book, opened to the page marked with the A strip , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 208 G N 58
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 208 G N 75
+the The He picked up his a book, opened to the page marked with the A strip , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 209 G N 59
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 209 G N 76
+the The He picked up his a book, opened to the page marked with the A strip , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 210 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 210 D N 75
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 211 G N 59
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 211 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 212 G N 60
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 212 G N 75
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 213 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 213 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 214 G N 60
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 214 G N 76
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 215 G N 61
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 215 G N 77
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 216 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 216 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 217 G N 61
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 217 G N 77
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 218 G N 62
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 218 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 219 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 219 G N 78
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 220 G N 62
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 220 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 221 G N 63
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 221 G N 79
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 222 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 222 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 223 G N 63
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 223 G N 80
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 224 G N 64
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 224 G N 81
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 225 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 225 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 226 G N 64
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 226 G N 81
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 227 G N 65
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 227 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 228 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 228 G N 82
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 229 G N 65
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 229 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 230 G N 66
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 230 G N 83
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 231 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 231 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 232 G N 66
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 232 G N 84
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 233 G N 67
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 233 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 234 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 234 G N 85
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 235 G N 67
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 235 G N 86
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 236 G N 68
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 236 D N 85
+the The He picked up his a book, opened to the page marked with the A strip, and take    his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 237 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 237 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take    his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 238 G N 68
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 238 G N 85
+the The He picked up his a book, opened to the page marked with the A strip, and take    his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 239 G N 69
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 239 G N 86
+the The He picked up his a book, opened to the page marked with the A strip, and take    his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 240 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 240 D N 85
+the The He picked up his a book, opened to the page marked with the A strip, and take   his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 241 G N 69
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 241 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take   his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 242 G N 70
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 242 G N 85
+the The He picked up his a book, opened to the page marked with the A strip, and take   his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 243 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 243 G N 86
+the The He picked up his a book, opened to the page marked with the A strip, and take   his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 244 G N 70
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 244 D N 85
+the The He picked up his a book, opened to the page marked with the A strip, and take  his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 245 G N 71
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 245 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take  his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 246 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 246 G N 85
+the The He picked up his a book, opened to the page marked with the A strip, and take  his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 247 G N 71
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 247 G N 86
+the The He picked up his a book, opened to the page marked with the A strip, and take  his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 248 G N 72
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 248 D N 85
+the The He picked up his a book, opened to the page marked with the A strip, and take his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 249 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 249 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 250 G N 72
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 250 G N 85
+the The He picked up his a book, opened to the page marked with the A strip, and take his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 251 G N 73
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 251 G N 86
+the The He picked up his a book, opened to the page marked with the A strip, and take his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 252 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 252 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 253 G N 73
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 253 G N 86
+the The He picked up his a book, opened to the page marked with the A strip, and take his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 254 G N 74
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 254 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 255 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 255 G N 87
+the The He picked up his a book, opened to the page marked with the A strip, and take his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 256 G N 74
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 256 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 257 G N 75
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 257 G N 88
+the The He picked up his a book, opened to the page marked with the A strip, and take his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 258 L N -1
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 258 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 259 G N 75
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 259 G N 89
+the The He picked up his a book, opened to the page marked with the A strip, and take his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 260 G N 76
+the The He picked up his a book, opened to the page marked with the A strip   , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 260 G N 90
+the The He picked up his a book, opened to the page marked with the A strip, and take his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 261 D N 75
+the The He picked up his a book, opened to the page marked with the A strip  , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 261 D N 89
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 262 L N -1
+the The He picked up his a book, opened to the page marked with the A strip  , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 262 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 263 G N 75
+the The He picked up his a book, opened to the page marked with the A strip  , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 263 G N 89
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 264 G N 76
+the The He picked up his a book, opened to the page marked with the A strip  , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 264 G N 90
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 265 D N 75
+the The He picked up his a book, opened to the page marked with the A strip , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 265 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 266 L N -1
+the The He picked up his a book, opened to the page marked with the A strip , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 266 G N 90
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 267 G N 75
+the The He picked up his a book, opened to the page marked with the A strip , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 267 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 268 G N 76
+the The He picked up his a book, opened to the page marked with the A strip , and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 268 G N 91
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 269 D N 75
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 269 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 270 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 270 G N 92
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 271 G N 75
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 271 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 272 G N 76
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 272 G N 93
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 273 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 273 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 274 G N 76
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 274 G N 94
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 275 G N 77
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 275 G N 95
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+1 276 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 276 D N 94
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+1 277 G N 77
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 277 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+1 278 G N 78
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 278 G N 94
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+1 279 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 279 G N 95
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+1 280 G N 78
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 280 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+1 281 G N 79
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 281 G N 95
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+1 282 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 282 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+1 283 G N 79
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 283 G N 96
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+1 284 G N 80
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 284 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+1 285 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 285 G N 97
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+1 286 G N 80
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 286 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+1 287 G N 81
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 287 G N 98
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+1 288 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 288 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+1 289 G N 81
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 289 G N 99
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+1 290 G N 82
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 290 G N 100
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+1 291 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 291 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+1 292 G N 82
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 292 G N 100
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+1 293 G N 83
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 293 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+1 294 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 294 G N 101
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+1 295 G N 83
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 295 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+1 296 G N 84
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 296 G N 102
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+1 297 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 297 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+1 298 G N 84
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 298 G N 103
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+1 299 G N 85
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 299 G N 104
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+1 300 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 300 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+1 301 G N 85
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 301 G N 104
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+1 302 G N 86
+the The He picked up his a book, opened to the page marked with the A strip, and take     his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 302 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+1 303 D N 85
+the The He picked up his a book, opened to the page marked with the A strip, and take    his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 303 G N 105
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+1 304 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take    his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 304 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+1 305 G N 85
+the The He picked up his a book, opened to the page marked with the A strip, and take    his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 305 G N 106
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+1 306 G N 86
+the The He picked up his a book, opened to the page marked with the A strip, and take    his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 306 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+1 307 D N 85
+the The He picked up his a book, opened to the page marked with the A strip, and take   his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 307 G N 107
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+1 308 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take   his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 308 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+1 309 G N 85
+the The He picked up his a book, opened to the page marked with the A strip, and take   his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 309 G N 108
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+1 310 G N 86
+the The He picked up his a book, opened to the page marked with the A strip, and take   his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 310 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+1 311 D N 85
+the The He picked up his a book, opened to the page marked with the A strip, and take  his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 311 G N 109
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+1 312 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take  his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 312 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+1 313 G N 85
+the The He picked up his a book, opened to the page marked with the A strip, and take  his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 313 G N 110
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+1 314 G N 86
+the The He picked up his a book, opened to the page marked with the A strip, and take  his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 314 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+1 315 D N 85
+the The He picked up his a book, opened to the page marked with the A strip, and take his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 315 G N 111
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+1 316 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 316 G N 112
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+1 317 G N 85
+the The He picked up his a book, opened to the page marked with the A strip, and take his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 317 D N 111
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege . As he did  so  , the      phone   rang The A.
+1 318 G N 86
+the The He picked up his a book, opened to the page marked with the A strip, and take his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 318 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege . As he did  so  , the      phone   rang The A.
+1 319 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 319 G N 111
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege . As he did  so  , the      phone   rang The A.
+1 320 G N 86
+the The He picked up his a book, opened to the page marked with the A strip, and take his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 320 G N 112
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege . As he did  so  , the      phone   rang The A.
+1 321 G N 87
+the The He picked up his a book, opened to the page marked with the A strip, and take his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 321 D N 111
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+1 322 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 322 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+1 323 G N 87
+the The He picked up his a book, opened to the page marked with the A strip, and take his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 323 G N 111
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+1 324 G N 88
+the The He picked up his a book, opened to the page marked with the A strip, and take his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 324 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+1 325 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 325 G N 112
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+1 326 G N 88
+the The He picked up his a book, opened to the page marked with the A strip, and take his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 326 G N 113
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+1 327 G N 89
+the The He picked up his a book, opened to the page marked with the A strip, and take his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 327 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+1 328 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 328 G N 113
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+1 329 G N 89
+the The He picked up his a book, opened to the page marked with the A strip, and take his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 329 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+1 330 G N 90
+the The He picked up his a book, opened to the page marked with the A strip, and take his  eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 330 G N 114
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+1 331 D N 89
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 331 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+1 332 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 332 G N 115
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+1 333 G N 89
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 333 G N 116
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+1 334 G N 90
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 334 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+1 335 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 335 G N 116
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+1 336 G N 90
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 336 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+1 337 G N 91
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 337 G N 117
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+1 338 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 338 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+1 339 G N 91
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 339 G N 118
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+1 340 G N 92
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 340 G N 119
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+1 341 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 341 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+1 342 G N 92
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 342 G N 119
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+1 343 G N 93
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 343 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+1 344 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 344 G N 120
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+1 345 G N 93
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 345 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+1 346 G N 94
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 346 G N 121
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+1 347 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 347 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+1 348 G N 94
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 348 G N 122
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+1 349 G N 95
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes  from the pathege  . As he did  so  , the      phone   rang The A.
+2 349 G N 123
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+1 350 D N 94
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 350 D N 122
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so  , the      phone   rang The A.
+1 351 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 351 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so  , the      phone   rang The A.
+1 352 G N 94
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 352 G N 122
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so  , the      phone   rang The A.
+1 353 G N 95
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 353 G N 123
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so  , the      phone   rang The A.
+1 354 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 354 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so  , the      phone   rang The A.
+1 355 G N 95
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 355 G N 123
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so  , the      phone   rang The A.
+1 356 G N 96
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 356 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so  , the      phone   rang The A.
+1 357 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 357 G N 124
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so  , the      phone   rang The A.
+1 358 G N 96
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 358 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so  , the      phone   rang The A.
+1 359 G N 97
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 359 G N 125
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so  , the      phone   rang The A.
+1 360 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 360 G N 126
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so  , the      phone   rang The A.
+1 361 G N 97
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 361 D N 125
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so , the      phone   rang The A.
+1 362 G N 98
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 362 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so , the      phone   rang The A.
+1 363 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 363 G N 125
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so , the      phone   rang The A.
+1 364 G N 98
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 364 G N 126
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so , the      phone   rang The A.
+1 365 G N 99
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 365 D N 125
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the      phone   rang The A.
+1 366 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 366 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the      phone   rang The A.
+1 367 G N 99
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 367 G N 125
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the      phone   rang The A.
+1 368 G N 100
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 368 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the      phone   rang The A.
+1 369 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 369 G N 126
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the      phone   rang The A.
+1 370 G N 100
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 370 G N 127
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the      phone   rang The A.
+1 371 G N 101
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 371 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the      phone   rang The A.
+1 372 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 372 G N 127
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the      phone   rang The A.
+1 373 G N 101
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 373 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the      phone   rang The A.
+1 374 G N 102
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 374 G N 128
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the      phone   rang The A.
+1 375 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 375 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the      phone   rang The A.
+1 376 G N 102
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 376 G N 129
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the      phone   rang The A.
+1 377 G N 103
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 377 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the      phone   rang The A.
+1 378 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 378 G N 130
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the      phone   rang The A.
+1 379 G N 103
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 379 G N 131
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the      phone   rang The A.
+1 380 G N 104
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 380 D N 130
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the     phone   rang The A.
+1 381 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 381 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the     phone   rang The A.
+1 382 G N 104
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 382 G N 130
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the     phone   rang The A.
+1 383 G N 105
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 383 G N 131
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the     phone   rang The A.
+1 384 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 384 D N 130
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the    phone   rang The A.
+1 385 G N 105
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 385 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the    phone   rang The A.
+1 386 G N 106
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 386 G N 130
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the    phone   rang The A.
+1 387 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 387 G N 131
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the    phone   rang The A.
+1 388 G N 106
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 388 D N 130
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the   phone   rang The A.
+1 389 G N 107
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 389 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the   phone   rang The A.
+1 390 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 390 G N 130
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the   phone   rang The A.
+1 391 G N 107
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 391 G N 131
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the   phone   rang The A.
+1 392 G N 108
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 392 D N 130
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the  phone   rang The A.
+1 393 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 393 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the  phone   rang The A.
+1 394 G N 108
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 394 G N 130
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the  phone   rang The A.
+1 395 G N 109
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 395 G N 131
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the  phone   rang The A.
+1 396 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 396 D N 130
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone   rang The A.
+1 397 G N 109
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 397 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone   rang The A.
+1 398 G N 110
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 398 G N 130
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone   rang The A.
+1 399 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 399 G N 131
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone   rang The A.
+1 400 G N 110
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 400 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone   rang The A.
+1 401 G N 111
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 401 G N 131
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone   rang The A.
+1 402 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 402 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone   rang The A.
+1 403 G N 111
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 403 G N 132
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone   rang The A.
+1 404 G N 112
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege  . As he did  so  , the      phone   rang The A.
+2 404 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone   rang The A.
+1 405 D N 111
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege . As he did  so  , the      phone   rang The A.
+2 405 G N 133
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone   rang The A.
+1 406 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege . As he did  so  , the      phone   rang The A.
+2 406 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone   rang The A.
+1 407 G N 111
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege . As he did  so  , the      phone   rang The A.
+2 407 G N 134
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone   rang The A.
+1 408 G N 112
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege . As he did  so  , the      phone   rang The A.
+2 408 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone   rang The A.
+1 409 D N 111
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+2 409 G N 135
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone   rang The A.
+1 410 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+2 410 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone   rang The A.
+1 411 G N 111
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+2 411 G N 136
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone   rang The A.
+1 412 G N 112
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+2 412 G N 137
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone   rang The A.
+1 413 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+2 413 D N 136
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone  rang The A.
+1 414 G N 112
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+2 414 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone  rang The A.
+1 415 G N 113
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+2 415 G N 136
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone  rang The A.
+1 416 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+2 416 G N 137
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone  rang The A.
+1 417 G N 113
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+2 417 D N 136
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 418 G N 114
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+2 418 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 419 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+2 419 G N 136
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 420 G N 114
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+2 420 G N 137
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 421 G N 115
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+2 421 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 422 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+2 422 G N 137
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 423 G N 115
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+2 423 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 424 G N 116
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+2 424 G N 138
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 425 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+2 425 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 426 G N 116
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+2 426 G N 139
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 427 G N 117
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+2 427 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 428 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+2 428 G N 140
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 429 G N 117
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+2 429 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 430 G N 118
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+2 430 G N 141
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 431 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+2 431 G N 142
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 432 G N 118
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+2 432 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 433 G N 119
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+2 433 G N 142
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 434 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+2 434 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 435 G N 119
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+2 435 G N 143
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 436 G N 120
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+2 436 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 437 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+2 437 G N 144
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 438 G N 120
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+2 438 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 439 G N 121
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+2 439 G N 145
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 440 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+2 440 G N 146
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 441 G N 121
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+2 441 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 442 G N 122
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+2 442 G N 146
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 443 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+2 443 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 444 G N 122
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+1 445 G N 123
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did  so  , the      phone   rang The A.
+1 446 D N 122
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so  , the      phone   rang The A.
+1 447 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so  , the      phone   rang The A.
+1 448 G N 122
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so  , the      phone   rang The A.
+1 449 G N 123
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so  , the      phone   rang The A.
+1 450 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so  , the      phone   rang The A.
+1 451 G N 123
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so  , the      phone   rang The A.
+1 452 G N 124
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so  , the      phone   rang The A.
+1 453 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so  , the      phone   rang The A.
+1 454 G N 124
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so  , the      phone   rang The A.
+1 455 G N 125
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so  , the      phone   rang The A.
+1 456 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so  , the      phone   rang The A.
+1 457 G N 125
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so  , the      phone   rang The A.
+1 458 G N 126
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so  , the      phone   rang The A.
+1 459 D N 125
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so , the      phone   rang The A.
+1 460 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so , the      phone   rang The A.
+1 461 G N 125
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so , the      phone   rang The A.
+1 462 G N 126
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so , the      phone   rang The A.
+1 463 D N 125
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the      phone   rang The A.
+1 464 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the      phone   rang The A.
+1 465 G N 125
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the      phone   rang The A.
+1 466 G N 126
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the      phone   rang The A.
+1 467 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the      phone   rang The A.
+1 468 G N 126
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the      phone   rang The A.
+1 469 G N 127
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the      phone   rang The A.
+1 470 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the      phone   rang The A.
+1 471 G N 127
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the      phone   rang The A.
+1 472 G N 128
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the      phone   rang The A.
+1 473 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the      phone   rang The A.
+1 474 G N 128
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the      phone   rang The A.
+1 475 G N 129
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the      phone   rang The A.
+1 476 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the      phone   rang The A.
+1 477 G N 129
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the      phone   rang The A.
+1 478 G N 130
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the      phone   rang The A.
+1 479 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the      phone   rang The A.
+1 480 G N 130
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the      phone   rang The A.
+1 481 G N 131
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the      phone   rang The A.
+1 482 D N 130
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the     phone   rang The A.
+1 483 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the     phone   rang The A.
+1 484 G N 130
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the     phone   rang The A.
+1 485 G N 131
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the     phone   rang The A.
+1 486 D N 130
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the    phone   rang The A.
+1 487 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the    phone   rang The A.
+1 488 G N 130
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the    phone   rang The A.
+1 489 G N 131
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the    phone   rang The A.
+1 490 D N 130
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the   phone   rang The A.
+1 491 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the   phone   rang The A.
+1 492 G N 130
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the   phone   rang The A.
+1 493 G N 131
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the   phone   rang The A.
+1 494 D N 130
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the  phone   rang The A.
+1 495 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the  phone   rang The A.
+1 496 G N 130
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the  phone   rang The A.
+1 497 G N 131
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the  phone   rang The A.
+1 498 D N 130
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone   rang The A.
+1 499 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone   rang The A.
+1 500 G N 130
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone   rang The A.
+1 501 G N 131
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone   rang The A.
+1 502 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone   rang The A.
+1 503 G N 131
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone   rang The A.
+1 504 G N 132
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone   rang The A.
+1 505 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone   rang The A.
+1 506 G N 132
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone   rang The A.
+1 507 G N 133
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone   rang The A.
+1 508 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone   rang The A.
+1 509 G N 133
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone   rang The A.
+1 510 G N 134
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone   rang The A.
+1 511 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone   rang The A.
+1 512 G N 134
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone   rang The A.
+1 513 G N 135
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone   rang The A.
+1 514 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone   rang The A.
+1 515 G N 135
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone   rang The A.
+1 516 G N 136
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone   rang The A.
+1 517 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone   rang The A.
+1 518 G N 136
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone   rang The A.
+1 519 G N 137
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone   rang The A.
+1 520 D N 136
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone  rang The A.
+1 521 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone  rang The A.
+1 522 G N 136
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone  rang The A.
+1 523 G N 137
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone  rang The A.
+1 524 D N 136
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 525 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 526 G N 136
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 527 G N 137
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 528 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 529 G N 137
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 530 G N 138
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 531 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 532 G N 138
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 533 G N 139
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 534 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 535 G N 139
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 536 G N 140
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 537 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 538 G N 140
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 539 G N 141
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 540 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 541 G N 141
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 542 G N 142
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 543 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 544 G N 142
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 545 G N 143
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 546 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 547 G N 143
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 548 G N 144
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 549 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 550 G N 144
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 551 G N 145
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 552 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 553 G N 145
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 554 G N 146
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 555 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 556 G N 146
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 557 G N 147
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.
+1 558 L N -1
+the The He picked up his a book, opened to the page marked with the A strip, and take his eyes from the pathege. As he did so, the phone rang The A.

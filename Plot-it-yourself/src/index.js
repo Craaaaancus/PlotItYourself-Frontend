@@ -72,7 +72,7 @@ function setGameData(textData, gameData) {
 }
 
 async function start() {
-  const numberOfTask = 2
+  const numberOfTask = 3
   window.gameConfig = await getData(numberOfTask)
   console.log(window.gameConfig)
   const app = new App()
