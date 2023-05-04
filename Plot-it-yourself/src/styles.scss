@@ -209,6 +209,7 @@ h1, h2, h3, h4, h5 {
   margin-top: -10px;
   transition: color .3s;
   cursor: pointer;
+  user-select: none;
 }
 
 .close-btn:hover {
