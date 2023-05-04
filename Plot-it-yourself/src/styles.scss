@@ -11,6 +11,7 @@ $textBlue: hsl(229, 78%, 52%);
 $lightBlue: #37d8e1;
 $buttonOrange: hsl(30, 100%, 50%);
 $buttonActiveOrange: hsl(30, 100%, 40%);
+$finishRed: #a71a1a;
 
 *, *::before, *::after {
   font-family: 'Open Sans', sans-serif;
@@ -122,6 +123,13 @@ h1, h2, h3, h4, h5 {
   text-align: justify;
 }
 
+.game-finish {
+  font-weight: bold;
+  padding-top: 10px;
+  color: $finishRed;
+  visibility: hidden;
+}
+
 .text-letter[data-color="orange"] {
   border-color: $textOrange;
   background-color: $lightOrange;
@@ -166,4 +174,52 @@ h1, h2, h3, h4, h5 {
 
 .message[data-color="green"] {
   color: $textGreen;
+}
+
+.winner-modal {
+  display: none;
+  position: fixed;
+  z-index: 1000;
+  padding-top: 100px;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.winner-modal-content {
+  background-color: #fefefe;
+  margin: auto;
+  padding: 25px;
+  border: 1px solid #888;
+  width: 70%;
+}
+
+.close-btn {
+  color: #aaaaaa;
+  float: right;
+  font-size: 2rem;
+  font-weight: bold;
+  margin-top: -10px;
+  transition: color .3s;
+  cursor: pointer;
+}
+
+.close-btn:hover {
+  color: #757575;
+}
+
+.winner-heading {
+  margin: 10px 0;
+  text-align: center;
+}
+
+.winner {
+  color: $textGreen;
+}
+
+.loser {
+  color: $textRed;
 }

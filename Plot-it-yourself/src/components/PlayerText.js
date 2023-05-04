@@ -14,7 +14,9 @@ export class PlayerText {
     playerContainer.innerHTML = `
       <h4 id="${this.playerStr}Name" class="player-header"></h4>
       <div id="${this.playerStr}Text" class="player-text"></div>
-      <div class="game-info" id="${this.playerStr}Info">
+      <div class="game-info" id="${this.playerStr}Info"></div>
+      <div class="game-finish" id="${this.playerStr}Finish">
+        Задача завершена
       </div>
     `
     return playerContainer

@@ -1,4 +1,5 @@
 import { StepController } from "./StepController.js"
+import { WinnerModal } from "./WinnerModal.js"
 
 export class ButtonHandler {
   constructor(){
@@ -28,6 +29,7 @@ export class ButtonHandler {
     this.iconPause = document.querySelector('#iconPause')
     this.iconRestart = document.querySelector('#iconRestart')
     this.stepController = new StepController()
+    this.winnerModal = new WinnerModal()
   }
 
   handleEvent(event){
@@ -137,6 +139,19 @@ export class ButtonHandler {
 
     this.playButton.dataset.status = state
   }
+  
+  setGameFinishVisibility(){
+    const playerFinish = document.querySelector('#playerFinish')
+    if (playerFinish && this.playerStep === this.lastPlayerStep){
+      playerFinish.style.visibility = 'visible'
+    }
+    else playerFinish.style.visibility = 'hidden'
+    const opponentFinish = document.querySelector('#opponentFinish')
+    if (opponentFinish && this.opponentStep === this.lastOpponentStep){
+      opponentFinish.style.visibility = 'visible'
+    }
+    else opponentFinish.style.visibility = 'hidden'
+  }
 
   isFinished(){
     const currentStepsCount = this.playerStep + this.opponentStep
@@ -153,13 +168,14 @@ export class ButtonHandler {
     this.opponentStep = opponentCurrentStep > 0 ? opponentCurrentStep : 0
     this.stepController.setStep(this.player, this.playerStep)
     this.stepController.setStep(this.opponent, this.opponentStep)
+    this.setGameFinishVisibility()
     this.intervalID = setInterval(() => {
       if (this.isFinished()){
         clearInterval(this.intervalID)
         this.intervalID = 0
         this.setPlayButtonIcon('restart')
         this.setButtonsState()
-        alert('finish')
+        this.winnerModal.open()
       }
       if (this.playerStep < this.lastPlayerStep){
         this.playerStep++
@@ -169,6 +185,7 @@ export class ButtonHandler {
         this.opponentStep++
         this.stepController.setStep(this.opponent, this.opponentStep)
       }
+      this.setGameFinishVisibility()
     }, this.timerDelay)
   }
 
@@ -193,6 +210,7 @@ export class ButtonHandler {
     this.setButtonsState()
     this.stepController.setStep(this.player, this.playerStep)
     this.stepController.setStep(this.opponent, this.opponentStep)
+    this.setGameFinishVisibility()
   }
 
   prev(){
@@ -205,6 +223,7 @@ export class ButtonHandler {
     this.setButtonsState()
     this.stepController.setStep(this.player, this.playerStep)
     this.stepController.setStep(this.opponent, this.opponentStep)
+    this.setGameFinishVisibility()
   }
 
   next(){
@@ -213,9 +232,10 @@ export class ButtonHandler {
     this.setButtonsState()
     this.stepController.setStep(this.player, this.playerStep)
     this.stepController.setStep(this.opponent, this.opponentStep)
+    this.setGameFinishVisibility()
     if (this.isFinished()) {
       this.setPlayButtonIcon('restart')
-      alert('finish')
+      this.winnerModal.open()
     }
   }
 
@@ -226,6 +246,7 @@ export class ButtonHandler {
     this.setButtonsState()
     this.stepController.setStep(this.player, this.playerStep)
     this.stepController.setStep(this.opponent, this.opponentStep)
-    alert('finish')
+    this.setGameFinishVisibility()
+    this.winnerModal.open()
   }
 }

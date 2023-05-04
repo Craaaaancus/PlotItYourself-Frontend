@@ -15,8 +15,14 @@ async function getData(numberOfTask = 1) {
 }
 
 function setGameData(textData, gameData){
-  let index = 1
+  let index = 1 // игнорируем *#*#*#*#
   const nextLine = () => textData[index++]
+
+  let winners = nextLine().split(/ +/)
+  gameData.winners = []
+  gameData.winners[0] = parseInt(winners[0])
+  gameData.winners[1] = parseInt(winners[1])
+  gameData.winners[2] = parseInt(winners[2])
 
   let ids = nextLine().split(/ +/)
   gameData.playerId   = parseInt(ids[0])
@@ -33,7 +39,7 @@ function setGameData(textData, gameData){
   let textLengths = nextLine().split(/ +/)
   gameData.sourceLength = parseInt(textLengths[0])
   gameData.targetLength = parseInt(textLengths[1])
-
+  gameData.numberOfTask = parseInt(nextLine())
   gameData.source = nextLine()
   gameData.target = nextLine()
 
