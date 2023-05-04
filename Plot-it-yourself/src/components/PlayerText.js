@@ -19,5 +19,4 @@ export class PlayerText {
     `
     return playerContainer
   }
-
 }

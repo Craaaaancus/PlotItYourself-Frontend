@@ -1,4 +1,4 @@
-import { AppButtons } from './AppButtons.js';
+import { ButtonsContainer } from './ButtonsContainer.js';
 import { PlayerText } from './PlayerText.js';
 import { ButtonHandler } from './ButtonHandler.js';
 import { StepVisualizer } from './StepVisualizer.js';
@@ -7,13 +7,13 @@ import { TaskInfo } from './TaskInfo.js';
 
 export class App {
   constructor() {
-    this.appButtons = new AppButtons();
+    this.buttonsContainer = new ButtonsContainer();
     this.player = 1;
     this.opponent = 2;
     this.playerTextBlock = new PlayerText(this.player);
     this.opponentTextBlock = new PlayerText(this.opponent);
-    this.taskInfo = new TaskInfo()
-    this.winnerModal = new WinnerModal()
+    this.taskInfo = new TaskInfo();
+    this.winnerModal = new WinnerModal();
     this.component = this.getComponent();
   }
 
@@ -25,9 +25,9 @@ export class App {
     stepVisualizer.setPlayerNames(
       window.gameConfig.playerName,
       window.gameConfig.opponentName
-    )
-    stepVisualizer.setPlayerText(this.player, window.gameConfig.source)
-    stepVisualizer.setPlayerText(this.opponent, window.gameConfig.source)
+    );
+    stepVisualizer.setPlayerText(this.player, window.gameConfig.source);
+    stepVisualizer.setPlayerText(this.opponent, window.gameConfig.source);
   }
 
   getComponent() {
@@ -35,7 +35,7 @@ export class App {
     const main = document.createElement('main');
     main.className = 'main';
     main.innerHTML = `
-      ${this.appButtons.getComponent().outerHTML}
+      ${this.buttonsContainer.getComponent().outerHTML}
       <div class="container">
         ${this.taskInfo.getComponent().outerHTML}
       </div>
