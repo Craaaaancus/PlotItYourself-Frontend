@@ -1,23 +1,19 @@
-import { App } from './components/app/App.js'
-import './global.scss'
+const express = require('express')
+const path = require('path')
+const cors = require('cors')
+const fetch = require('node-fetch')
 
-// для тестирования
-async function getData(numberOfTask = 1) {
+const app = express()
+const urlToDist = path.join(__dirname, '..', 'dist')
+const urlToGithub = 'https://github.com/Craaaaancus/PlotItYourself/blob/plot-it-yourself/Plot-it-yourself/output.txt'
+const urlToOutput = 'https://craaaaancus.github.io/PlotItYourself/Plot-it-yourself/output.txt'
+const port = 8080
+app.use(cors())
+
+function getGameConfig(dataLines){
   const gameData = {}
-  try {
-    const data = await fetch(`./outputs/output${numberOfTask}.txt`)
-    const textData = (await data.text()).split('\n')
-    setGameData(textData, gameData)
-    return gameData
-  } catch (error) {
-    console.log(error)
-  }
-}
-
-//для тестирования
-function setGameData(textData, gameData) {
   let index = 1 // игнорируем *#*#*#*#
-  const nextLine = () => textData[index++]
+  const nextLine = () => dataLines[index++]
 
   let winners = nextLine().split(/ +/)
   gameData.winners = []
@@ -71,14 +67,23 @@ function setGameData(textData, gameData) {
     }
     step++
   }
+
+  return gameData
 }
 
-async function start() {
-  const data = await fetch('/game_config')
-  window.gameConfig = await data.json()
-  //console.log(window.gameConfig)
-  const app = new App()
-  app.start()
-}
+app.get('/game_config', async (req, res) => {
+  try {
+    const data = await fetch(urlToOutput)
+    const dataText = await data.text()
+    const textLines = dataText.split('\n')
+    const gameConfig = getGameConfig(textLines)
+    res.json(gameConfig)
+  }
+  catch(e){
+    console.log(e)
+  }
+})
 
-start()
+app.use(express.static(urlToDist))
+app.listen(port)
+console.log(`Сервер стартовал на порту ${port}`)

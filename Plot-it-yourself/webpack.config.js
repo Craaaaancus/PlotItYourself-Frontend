@@ -3,7 +3,7 @@ const { merge } = require('webpack-merge');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const { CleanWebpackPlugin } = require('clean-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
-const CopyWebpackPlugin = require("copy-webpack-plugin");
+//const CopyWebpackPlugin = require("copy-webpack-plugin");
 
 const baseConfig = {
   entry: path.resolve(__dirname, './src/index.js'),
@@ -41,14 +41,14 @@ const baseConfig = {
     new MiniCssExtractPlugin({
       filename: 'styles.css'
     }),
-    new CopyWebpackPlugin({
+    /*new CopyWebpackPlugin({
       patterns: [
         {
           from: path.resolve(__dirname, "./src/outputs"),
           to: path.resolve(__dirname, './dist/outputs')
         },
       ],
-    })
+    })*/
   ],
 };
 
