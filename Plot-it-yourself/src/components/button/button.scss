@@ -1,0 +1,44 @@
+$buttonOrange: hsl(30, 100%, 50%);
+$buttonActiveOrange: hsl(30, 100%, 40%);
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+}
+
+.tooltip .tooltip-text {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+  position: absolute;
+  z-index: 1;
+  width: 120px;
+  top: 100%;
+  left: 50%;
+  margin-left: -60px;
+}
+
+.btn {
+  font-size: inherit;
+  background-color: $buttonOrange;
+  padding: 0.5em 1em;
+  margin: 0 0.5rem;
+  outline: none;
+  border: none;
+  text-decoration: none;
+  cursor: pointer;
+  border-radius: 0.2em;
+  color: #f3f3f3;
+}
+
+.btn:hover:not(.btn[disabled]), .btn:focus:not(.btn[disabled]) {
+  background-color: $buttonActiveOrange;
+}
+
+.btn:hover ~ .tooltip-text {
+  visibility: visible;
+}

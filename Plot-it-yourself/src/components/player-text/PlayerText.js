@@ -1,11 +1,13 @@
+import './player-text.scss'
+
 export class PlayerText {
-  constructor(playerNumber){
-    this.playerStr =  playerNumber === 1 ? 'player'  :
-                      playerNumber === 2 ? 'opponent': ''
+  constructor(playerNumber) {
+    this.playerStr =
+      playerNumber === 1 ? 'player' : playerNumber === 2 ? 'opponent' : ''
     this.component = this.getComponent(playerNumber)
   }
 
-  getComponent(){
+  getComponent() {
     if (this.component) return this.component
 
     const playerContainer = document.createElement('div')

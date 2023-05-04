@@ -1,4 +1,4 @@
-import { StepVisualizer } from "./StepVisualizer.js";
+import { StepVisualizer } from './StepVisualizer.js'
 
 export class StepController {
   constructor() {
@@ -13,54 +13,49 @@ export class StepController {
         this.startStep(playerNum, step)
         break
       case 'L':
-        this.lengthStep(playerNum, step);
-        break;
+        this.lengthStep(playerNum, step)
+        break
       case 'G':
-        if (stepData.moveResult === 'O'){
+        if (stepData.moveResult === 'O') {
           this.outOfBoundsStep(playerNum, step)
-        }
-        else this.getCharStep(playerNum, step);
-        break;
+        } else this.getCharStep(playerNum, step)
+        break
       case 'S':
-        if (stepData.moveResult === 'O'){
+        if (stepData.moveResult === 'O') {
           this.outOfBoundsStep(playerNum, step)
-        }
-        else this.setCharStep(playerNum, step);
-        break;
+        } else this.setCharStep(playerNum, step)
+        break
       case 'D':
-        if (stepData.moveResult === 'O'){
+        if (stepData.moveResult === 'O') {
           this.outOfBoundsStep(playerNum, step)
-        }
-        else this.deleteCharsStep(playerNum, step);
-        break;
+        } else this.deleteCharsStep(playerNum, step)
+        break
       case 'F':
-        if (stepData.moveResult === 'F'){
+        if (stepData.moveResult === 'F') {
           this.notFoundStep(playerNum, step)
-        }
-        else this.findStrStep(playerNum, step);
-        break;
+        } else this.findStrStep(playerNum, step)
+        break
       case 'I':
-        if (stepData.moveResult === 'O'){
+        if (stepData.moveResult === 'O') {
           this.outOfBoundsStep(playerNum, step)
-        }
-        else this.insCharStep(playerNum, step);
-        break;
+        } else this.insCharStep(playerNum, step)
+        break
     }
   }
 
   getStepData(playerNum, step) {
     if (playerNum === 1) {
-      return window.gameConfig.playerSteps[step];
+      return window.gameConfig.playerSteps[step]
     }
     if (playerNum === 2) {
-      return window.gameConfig.opponentSteps[step];
+      return window.gameConfig.opponentSteps[step]
     }
   }
 
   startStep(playerNum, step) {
     const stepData = this.getStepData(playerNum, step)
     if (!stepData) return
-    const initStepMessage = 'начал задачу';
+    const initStepMessage = 'начал задачу'
     const color = 'orange'
     this.renderer.setPlayerText(playerNum, stepData.text)
     this.renderer.setPlayerStepInfo(playerNum, step, initStepMessage, color)
@@ -68,8 +63,8 @@ export class StepController {
   }
 
   lengthStep(playerNum, step) {
-    const stepData = this.getStepData(playerNum, step);
-    if (!stepData) return;
+    const stepData = this.getStepData(playerNum, step)
+    if (!stepData) return
     const lengthStepMessage = `
       получил длину текста в ${stepData.text.length} символов
     `
@@ -79,8 +74,8 @@ export class StepController {
     this.renderer.highlightPlayerText(playerNum, color)
   }
 
-  getCharStep(playerNum, step){
-    const stepData = this.getStepData(playerNum, step);
+  getCharStep(playerNum, step) {
+    const stepData = this.getStepData(playerNum, step)
     if (!stepData) return
     const text = stepData.text
     const position = stepData.position
@@ -94,8 +89,8 @@ export class StepController {
     this.renderer.highlightPlayerLetters(playerNum, color, position)
   }
 
-  setCharStep(playerNum, step){
-    const stepData = this.getStepData(playerNum, step);
+  setCharStep(playerNum, step) {
+    const stepData = this.getStepData(playerNum, step)
     if (!stepData) return
     const text = stepData.text
     const position = stepData.position
@@ -109,7 +104,7 @@ export class StepController {
     this.renderer.highlightPlayerLetters(playerNum, color, position)
   }
 
-  deleteCharsStep(playerNum, step){
+  deleteCharsStep(playerNum, step) {
     const stepDataPrev = this.getStepData(playerNum, step - 1)
     const stepData = this.getStepData(playerNum, step)
     if (!stepDataPrev || !stepData) return
@@ -121,13 +116,18 @@ export class StepController {
     `
     const color = 'red'
     this.renderer.setPlayerText(playerNum, text)
-    this.renderer.setPlayerStepInfo(playerNum, step, deleteCharsStepMessage, color)
+    this.renderer.setPlayerStepInfo(
+      playerNum,
+      step,
+      deleteCharsStepMessage,
+      color
+    )
     this.renderer.highlightPlayerText(playerNum)
     this.renderer.highlightPlayerLetters(playerNum, color, position, count)
   }
 
-  findStrStep(playerNum, step){
-    const stepData = this.getStepData(playerNum, step);
+  findStrStep(playerNum, step) {
+    const stepData = this.getStepData(playerNum, step)
     if (!stepData) return
     const text = stepData.text
     const position = stepData.position
@@ -141,7 +141,7 @@ export class StepController {
     this.renderer.highlightPlayerLetters(playerNum, color, position)
   }
 
-  insCharStep(playerNum, step){
+  insCharStep(playerNum, step) {
     const stepData = this.getStepData(playerNum, step)
     if (!stepData) return
     const text = stepData.text
@@ -156,7 +156,7 @@ export class StepController {
     this.renderer.highlightPlayerLetters(playerNum, color, position)
   }
 
-  outOfBoundsStep(playerNum, step){
+  outOfBoundsStep(playerNum, step) {
     const stepData = this.getStepData(playerNum, step)
     if (!stepData) return
     const text = stepData.text
@@ -165,11 +165,16 @@ export class StepController {
     `
     const color = 'red'
     this.renderer.setPlayerText(playerNum, text)
-    this.renderer.setPlayerStepInfo(playerNum, step, outOfBoundsStepMessage, color)
+    this.renderer.setPlayerStepInfo(
+      playerNum,
+      step,
+      outOfBoundsStepMessage,
+      color
+    )
     this.renderer.highlightPlayerText(playerNum, color)
   }
 
-  notFoundStep(playerNum, step){
+  notFoundStep(playerNum, step) {
     const stepData = this.getStepData(playerNum, step)
     if (!stepData) return
     const text = stepData.text

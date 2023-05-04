@@ -1,10 +1,12 @@
+import './task-info.scss'
+
 export class TaskInfo {
-  constructor(){
+  constructor() {
     this.component = this.getComponent()
     this.numberOfTask = window.gameConfig.numberOfTask
   }
 
-  getComponent(){
+  getComponent() {
     const taskInfo = document.createElement('div')
     taskInfo.id = 'taskInfo'
     taskInfo.className = 'task-info'
@@ -20,7 +22,7 @@ export class TaskInfo {
       <b>Задание 3: </b> удалить повторные вхождения в текст одних 
       и тех же слов
     `
-    switch(this.numberOfTask){
+    switch (this.numberOfTask) {
       case 1:
         taskInfo.innerHTML = firstTaskHTML
         break
@@ -33,7 +35,7 @@ export class TaskInfo {
       default:
         taskInfo.innerHTML = ''
     }
-    
+
     return taskInfo
   }
 }

@@ -1,9 +1,9 @@
 export class ButtonIcon {
-  constructor(iconType){
+  constructor(iconType) {
     this.iconType = iconType
   }
 
-  getIconHTML(){
+  getIconHTML() {
     const rewindIcon = `
       <svg style="width:24px;height:24px;" viewBox="0 0 24 24">
         <path fill="currentColor" d="M17,5H14V19H17V5M12,5L1,12L12,19V5M22,5H19V19H22V5Z"></path>
@@ -39,7 +39,7 @@ export class ButtonIcon {
         <path fill="currentColor" d="M14,19H18V5H14M6,19H10V5H6V19Z"></path>
       </svg>
     `
-    switch(this.iconType){
+    switch (this.iconType) {
       case 'prev':
         return prevIcon
       case 'next':

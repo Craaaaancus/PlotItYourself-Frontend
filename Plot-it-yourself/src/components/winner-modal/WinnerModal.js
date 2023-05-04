@@ -1,20 +1,22 @@
+import './winner-modal.scss'
+
 export class WinnerModal {
-  constructor(winners){
+  constructor(winners) {
     this.winners = winners ? winners : window.gameConfig.winners
     this.component = this.getComponent()
   }
 
-  getWinnerHTML(){
+  getWinnerHTML() {
     const playerId = window.gameConfig.playerId
     const opponentId = window.gameConfig.opponentId
     const playerName = window.gameConfig.playerName
     const opponentName = window.gameConfig.opponentName
-    let winnerName = '', loserName = ''
-    if (this.winners[0] === playerId){
+    let winnerName = '',
+      loserName = ''
+    if (this.winners[0] === playerId) {
       winnerName = playerName
       loserName = opponentName
-    }
-    else if (this.winners[0] === opponentId){
+    } else if (this.winners[0] === opponentId) {
       winnerName = opponentName
       loserName = playerName
     }
@@ -33,7 +35,7 @@ export class WinnerModal {
         Игроки <b>${playerName}</b> и <b>${opponentName}</b> потерпели поражение
       </p>
     `
-    switch(this.winners[2]){
+    switch (this.winners[2]) {
       case 0:
         return winHTML
       case 1:
@@ -45,7 +47,7 @@ export class WinnerModal {
     }
   }
 
-  open(){
+  open() {
     const winnerModal = document.querySelector('#winnerModal')
     if (winnerModal) winnerModal.style.display = 'block'
     const closeBtn = document.querySelector('#winnerModalCloseBtn')
@@ -53,12 +55,12 @@ export class WinnerModal {
     if (closeBtn) closeBtn.onclick = handleClick
   }
 
-  close(){
+  close() {
     const winnerModal = document.querySelector('#winnerModal')
     if (winnerModal) winnerModal.style.display = 'none'
   }
 
-  getComponent(){
+  getComponent() {
     if (this.component) return this.component
     const winnerModal = document.createElement('div')
     winnerModal.id = 'winnerModal'

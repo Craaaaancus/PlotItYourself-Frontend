@@ -1,5 +1,5 @@
-import { App } from "./components/App.js"
-import './styles.scss'
+import { App } from './components/app/App.js'
+import './global.scss'
 
 async function getData(numberOfTask = 1) {
   const gameData = {}
@@ -8,13 +8,12 @@ async function getData(numberOfTask = 1) {
     const textData = (await data.text()).split('\n')
     setGameData(textData, gameData)
     return gameData
-  }
-  catch(error) {
+  } catch (error) {
     console.log(error)
   }
 }
 
-function setGameData(textData, gameData){
+function setGameData(textData, gameData) {
   let index = 1 // игнорируем *#*#*#*#
   const nextLine = () => textData[index++]
 
@@ -25,14 +24,14 @@ function setGameData(textData, gameData){
   gameData.winners[2] = parseInt(winners[2])
 
   let ids = nextLine().split(/ +/)
-  gameData.playerId   = parseInt(ids[0])
+  gameData.playerId = parseInt(ids[0])
   gameData.opponentId = parseInt(ids[1])
 
   let keys = nextLine().split(/ +/)
-  gameData.playerKey   = parseInt(keys[0])
+  gameData.playerKey = parseInt(keys[0])
   gameData.opponentKey = parseInt(keys[1])
 
-  gameData.playerName   = nextLine().trim()
+  gameData.playerName = nextLine().trim()
   gameData.opponentName = nextLine().trim()
 
   gameData.maxSteps = parseInt(nextLine())
@@ -46,26 +45,26 @@ function setGameData(textData, gameData){
   gameData.stepsCount = parseInt(nextLine())
 
   let step = 0
-  gameData.playerSteps   = []
+  gameData.playerSteps = []
   gameData.opponentSteps = []
   let firstSteps = 2
-  while (step <= (gameData.stepsCount + firstSteps)){
+  while (step <= gameData.stepsCount + firstSteps) {
     let next = nextLine()
     if (!next) break
     let stepInfo = next.split(/ +/)
     if (!stepInfo.length) break
     let stepText = nextLine()
     let stepData = {}
-    stepData.step       = parseInt(stepInfo[1])
-    stepData.typeMove   = stepInfo[2]
+    stepData.step = parseInt(stepInfo[1])
+    stepData.typeMove = stepInfo[2]
     stepData.moveResult = stepInfo[3]
     stepData.position = parseInt(stepInfo[4])
-    stepData.text       = stepText
+    stepData.text = stepText
 
-    if (parseInt(stepInfo[0]) === 1){
+    if (parseInt(stepInfo[0]) === 1) {
       gameData.playerSteps[stepData.step] = stepData
     }
-    if (parseInt(stepInfo[0]) === 2){
+    if (parseInt(stepInfo[0]) === 2) {
       gameData.opponentSteps[stepData.step] = stepData
     }
     step++

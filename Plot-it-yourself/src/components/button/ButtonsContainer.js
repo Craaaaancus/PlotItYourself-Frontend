@@ -1,9 +1,9 @@
-import { ButtonIcon } from "./ButtonIcon.js"
+import { ButtonIcon } from './ButtonIcon.js'
 
 export class ButtonsContainer {
   getComponent() {
-    const buttonsContainer = document.createElement('div');
-    buttonsContainer.className = 'container buttons-container';
+    const buttonsContainer = document.createElement('div')
+    buttonsContainer.className = 'container buttons-container'
     buttonsContainer.innerHTML = `
       <div class="tooltip">
         ${this.getRewindButton(true).outerHTML}
@@ -42,56 +42,56 @@ export class ButtonsContainer {
         ${this.getForwardButton().outerHTML}
         <span class="tooltip-text">Перемотать в конец</span>
       </div>
-    `;
+    `
 
-    return buttonsContainer;
+    return buttonsContainer
   }
 
   getPrevButton(disabled = false) {
-    const prevBtn = document.createElement('button');
-    prevBtn.id = 'prev';
-    prevBtn.className = 'btn';
-    if (disabled) prevBtn.disabled = true;
+    const prevBtn = document.createElement('button')
+    prevBtn.id = 'prev'
+    prevBtn.className = 'btn'
+    if (disabled) prevBtn.disabled = true
     prevBtn.innerHTML = new ButtonIcon('prev').getIconHTML()
 
-    return prevBtn;
+    return prevBtn
   }
 
   getNextButton(disabled = false) {
-    const nextBtn = document.createElement('button');
-    nextBtn.id = 'next';
-    nextBtn.className = 'btn';
-    if (disabled) nextBtn.disabled = true;
+    const nextBtn = document.createElement('button')
+    nextBtn.id = 'next'
+    nextBtn.className = 'btn'
+    if (disabled) nextBtn.disabled = true
     nextBtn.innerHTML = new ButtonIcon('next').getIconHTML()
 
-    return nextBtn;
+    return nextBtn
   }
 
   getRewindButton(disabled = false) {
-    const rewindBtn = document.createElement('button');
-    rewindBtn.id = 'rewind';
-    rewindBtn.className = 'btn';
-    if (disabled) rewindBtn.disabled = true;
+    const rewindBtn = document.createElement('button')
+    rewindBtn.id = 'rewind'
+    rewindBtn.className = 'btn'
+    if (disabled) rewindBtn.disabled = true
     rewindBtn.innerHTML = new ButtonIcon('rewind').getIconHTML()
 
-    return rewindBtn;
+    return rewindBtn
   }
 
   getForwardButton(disabled = false) {
-    const forwardBtn = document.createElement('button');
-    forwardBtn.id = 'forward';
-    forwardBtn.className = 'btn';
-    if (disabled) forwardBtn.disabled = true;
+    const forwardBtn = document.createElement('button')
+    forwardBtn.id = 'forward'
+    forwardBtn.className = 'btn'
+    if (disabled) forwardBtn.disabled = true
     forwardBtn.innerHTML = new ButtonIcon('forward').getIconHTML()
 
-    return forwardBtn;
+    return forwardBtn
   }
 
   getPlayButton() {
-    const playBtn = document.createElement('button');
-    playBtn.id = 'play';
-    playBtn.className = 'btn';
-    playBtn.dataset.status = 'play';
+    const playBtn = document.createElement('button')
+    playBtn.id = 'play'
+    playBtn.className = 'btn'
+    playBtn.dataset.status = 'play'
     playBtn.innerHTML = `
       <span id="iconRestart" style="display:none;">
         ${new ButtonIcon('restart').getIconHTML()}
