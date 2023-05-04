@@ -12,6 +12,7 @@ export class ButtonHandler {
     this.stepsCount = window.gameConfig.stepsCount
     this.lastPlayerStep = window.gameConfig.playerSteps.length - 1
     this.lastOpponentStep = window.gameConfig.opponentSteps.length - 1
+    this.maxNumberOfSteps = window.gameConfig.maxSteps
     if (this.lastPlayerStep >= this.lastOpponentStep){
       this.maxSteps = this.lastPlayerStep
     }
@@ -99,7 +100,7 @@ export class ButtonHandler {
   }
 
   setButtonsState(){
-    const isFirstStep = this.playerStep === 0 || this.opponentStep === 0
+    const isFirstStep = this.playerStep === 0 && this.opponentStep === 0
     if (isFirstStep) this.disableButtons('left')
     else this.activateButtons('left')
     const isLastStep = this.playerStep === this.lastPlayerStep && 
@@ -141,14 +142,25 @@ export class ButtonHandler {
   }
   
   setGameFinishVisibility(){
+    const maxNumberOfStepsExceedMessage = 'Превышено максимальное количество ходов'
+    const taskEndMessage = 'Задача завершена'
     const playerFinish = document.querySelector('#playerFinish')
     if (playerFinish && this.playerStep === this.lastPlayerStep){
       playerFinish.style.visibility = 'visible'
+      if (this.lastPlayerStep > this.maxNumberOfSteps){
+        playerFinish.textContent = maxNumberOfStepsExceedMessage
+      }
+      else playerFinish.textContent = taskEndMessage
     }
     else playerFinish.style.visibility = 'hidden'
+
     const opponentFinish = document.querySelector('#opponentFinish')
     if (opponentFinish && this.opponentStep === this.lastOpponentStep){
       opponentFinish.style.visibility = 'visible'
+      if (this.lastOpponentStep > this.maxNumberOfSteps){
+        opponentFinish.textContent = maxNumberOfStepsExceedMessage
+      }
+      else opponentFinish.textContent = taskEndMessage
     }
     else opponentFinish.style.visibility = 'hidden'
   }

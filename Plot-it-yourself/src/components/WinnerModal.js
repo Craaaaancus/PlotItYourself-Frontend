@@ -25,7 +25,7 @@ export class WinnerModal {
     `
     const drawHTML = `
       <p class="winner">
-        Игроки <b>${playerName}</b> и <b>${opponentName}</b> сыграли в ничью
+        Игроки <b>${playerName}</b> и <b>${opponentName}</b> сыграли вничью
       </p>
     `
     const loseHTML = `
