@@ -73,10 +73,11 @@ function setGameData(textData, gameData){
 }
 
 async function start() {
-  window.gameConfig = await getData(2)
+  const numberOfTask = 2
+  window.gameConfig = await getData(numberOfTask)
   console.log(window.gameConfig)
   const app = new App()
   app.start()
 }
-start()
 
+start()

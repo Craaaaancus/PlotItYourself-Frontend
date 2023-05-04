@@ -3,6 +3,7 @@ import { PlayerText } from './PlayerText.js';
 import { ButtonHandler } from './ButtonHandler.js';
 import { StepVisualizer } from './StepVisualizer.js';
 import { WinnerModal } from './WinnerModal.js';
+import { TaskInfo } from './TaskInfo.js';
 
 export class App {
   constructor() {
@@ -11,6 +12,7 @@ export class App {
     this.opponent = 2;
     this.playerTextBlock = new PlayerText(this.player);
     this.opponentTextBlock = new PlayerText(this.opponent);
+    this.taskInfo = new TaskInfo()
     this.winnerModal = new WinnerModal()
     this.component = this.getComponent();
   }
@@ -34,6 +36,9 @@ export class App {
     main.className = 'main';
     main.innerHTML = `
       ${this.appButtons.getComponent().outerHTML}
+      <div class="container">
+        ${this.taskInfo.getComponent().outerHTML}
+      </div>
       <div class="container">
         ${this.playerTextBlock.getComponent().outerHTML}
         ${this.opponentTextBlock.getComponent().outerHTML}
