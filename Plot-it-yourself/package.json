@@ -7,7 +7,8 @@
     "start": "webpack serve --open --config ./webpack.config.js --env mode=dev",
     "build": "webpack --config ./webpack.config.js --env mode=prod",
     "lint": "eslint src/. --ext .js",
-    "server": "nodemon ./node-script/index.js"
+    "nodemon": "nodemon ./server/server.js",
+    "server": "node ./server/server.js"
   },
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",

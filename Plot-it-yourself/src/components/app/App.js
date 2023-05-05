@@ -1,4 +1,4 @@
-import { ButtonsContainer, ButtonHandler } from '../button'
+import { ButtonsContainer, ButtonHandler } from '../buttons'
 import { PlayerText } from '../player-text/PlayerText.js'
 import { StepVisualizer } from '../step'
 import { WinnerModal } from '../winner-modal/WinnerModal.js'

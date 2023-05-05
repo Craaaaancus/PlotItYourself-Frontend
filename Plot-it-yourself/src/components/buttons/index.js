@@ -1,4 +1,4 @@
-import './button.scss'
+import './buttons.scss'
 export * from './ButtonHandler.js'
 export * from './ButtonIcon.js'
 export * from './ButtonsContainer.js'
